@@ -1,0 +1,194 @@
+[
+  {
+    "question": "A person who received a Level 4 rating on the Rancho Los Amigos Scale of Cognitive Functioning:",
+    "options": [
+      "is unresponsive to all stimuli but shows signs of basic physiological functioning such as breathing and heartbeat.",
+      "is highly responsive and coherent, but cannot remember or integrate past and recent events.",
+      "is functioning at an intellectual level that is average for his/her age, education, and demographic background.",
+      "is responsive to stimuli but cannot remember or integrate past and recent events, and exhibits impaired judgment.",
+      "is confused and incoherent, may exhibit bizarre behavior, and is unable to care for him/herself.",
+      "is functioning at an intellectual level that is superior for his/her age, education, and demographic background.",
+      "is nonresponsive to visual or auditory stimuli and seems to be in a state of deep sleep.",
+      "is alert and oriented and can remember and integrate remote and recent events but may have some impairment in judgment, planning, and abstract reasoning."
+    ],
+    "response": "A person who received a Level 4 rating on the Rancho Los Amigos Scale of Cognitive Functioning:\n\n1. **Is responsive to stimuli but cannot remember or integrate past and recent events, and exhibits impaired judgment.**\n\nThis level indicates that the individual may respond to their environment but lacks the ability to form new memories or understand their situation fully. They may show confusion and have difficulty with decision-making.",
+    "chosen_option": "1",
+    "is_correct": false
+  },
+  {
+    "question": "You receive a phone call from Hermann H., age 28, who says he is “totally miserable” because of the recent breakup with his girlfriend and that he would like to begin therapy with you. During the first session with Hermann, you find out that his political views are completely repugnant to you, and you feel that you would not enjoy working with him. As an ethical psychologist, you should:",
+    "options": [
+      "Discuss your discomfort with Hermann's political views in the first session.",
+      "Ignore your personal feelings and continue therapy without discussing the difference in political views.",
+      "discuss the difference in political views with Hermann only if they become relevant to the psychotherapy process.",
+      "Suggest Hermann to find a psychologist who shares his political views.",
+      "Decline Hermann's request for therapy because of the difference in political views.",
+      "see Hermann in therapy until his current crisis is over and then make a referral if necessary.",
+      "Tell Hermann outright that his political views are repugnant and continue the therapy.",
+      "Offer to treat Hermann only if he changes his political views.",
+      "provide Hermann with appropriate referrals."
+    ],
+    "response": "In this situation, it's important to prioritize ethical standards and the therapeutic relationship. Here’s a step-by-step analysis of the options:\n\n1. **Discuss your discomfort with Hermann's political views in the first session.**  \n   - This could create a confrontational atmosphere and may not be productive at this stage. It’s important to focus on Hermann’s issues first.\n\n2. **Ignore your personal feelings and continue therapy without discussing the difference in political views.**  \n   - While it’s essential to maintain professionalism, ignoring significant discomfort may lead to resentment or bias in therapy.\n\n3. **Discuss the difference in political views with Hermann only if they become relevant to the psychotherapy process.**  \n   - This is a balanced approach. If his views impact the therapeutic relationship or his issues, it may be appropriate to address them later.\n\n4. **Suggest Hermann find a psychologist who shares his political views.**  \n   - This could be seen as unprofessional and dismissive. It’s important to provide care regardless of differing views.\n\n5. **Decline Hermann's request for therapy because of the difference in political views.**  \n   - This is not ethical unless the views pose a direct risk to the therapeutic process or safety.\n\n6. **See Hermann in therapy until his current crisis is over and then make a referral if necessary.**  \n   - This could be a viable option if you feel you can manage your discomfort and provide effective support.\n\n7. **Tell Hermann outright that his political views are repugnant and continue the therapy.**  \n   - This is unprofessional and could harm the therapeutic relationship.\n\n8. **Offer to treat Hermann only if he changes his political views.**  \n   - This is unethical and not a basis for therapy.\n\n9. **Provide Hermann with appropriate referrals.**  \n   - If you feel you cannot work with him effectively, this is a responsible option.\n\n### Recommended Approach:\n**Option 3** is the most ethical and professional choice. You can focus on Hermann's immediate concerns and address any political views only if they become relevant to the therapy process. If you find that your discomfort is impacting the therapy, you can then consider providing referrals (Option 9) or discussing the issue more directly.",
+    "chosen_option": "3",
+    "is_correct": false
+  },
+  {
+    "question": "During the second stage of Kohlberg’s preconventional level of moral development, children obey rules because:",
+    "options": [
+      "they are taught that rules are unbreakable.",
+      "they enjoy following the rules.",
+      "they are rewarded for following rules.",
+      "they feel they have a personal duty to uphold rules and laws.",
+      "doing so helps them satisfy their personal needs.",
+      "they understand the concept of fairness and justice.",
+      "doing so helps them avoid punishment.",
+      "\"\"\"everyone else is doing it.\"\"\"",
+      "they believe in the inherent goodness of rules.",
+      "they fear societal disapproval."
+    ],
+    "response": "In the second stage of Kohlberg’s preconventional level of moral development, children primarily obey rules for the following reasons:\n\n1. **They are rewarded for following rules**: At this stage, children often see rules as a means to gain rewards. They understand that adhering to rules can lead to positive outcomes for themselves.\n\n2. **Doing so helps them satisfy their personal needs**: Children recognize that following rules can help them achieve their own goals or desires, reinforcing their motivation to comply.\n\n3. **They fear societal disapproval**: While this is more characteristic of later stages, some awareness of how their actions might be viewed by others can influence their behavior at this stage.\n\n4. **Doing so helps them avoid punishment**: A significant motivator for children in this stage is the desire to avoid negative consequences. They learn that breaking rules can lead to punishment, which they want to evade.\n\nIn summary, children in this stage are primarily motivated by self-interest, rewards, and the avoidance of punishment, rather than a deep understanding of fairness, justice, or societal norms.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "The mental retardation associated with PKU is preventable with:",
+    "options": [
+      "hormone replacement therapy.",
+      "surgical intervention.",
+      "psychotherapy.",
+      "vitamin supplements.",
+      "blood transfusions.",
+      "removal of environmental toxins.",
+      "gene therapy.",
+      "antibiotics.",
+      "regular exercise."
+    ],
+    "response": "The mental retardation associated with Phenylketonuria (PKU) is preventable with:\n\n1. **Dietary management**: The primary method to prevent the cognitive impairment associated with PKU is a strict low-phenylalanine diet, which is not listed in your options. However, if we consider the options provided, none directly address dietary management.\n\nSince none of the options directly relate to the dietary management necessary for PKU, the closest relevant approach would be:\n\n- **Removal of environmental toxins** (Option 6): While this is not a direct treatment for PKU, it emphasizes the importance of avoiding substances that could exacerbate the condition.\n\nIn summary, the best preventive measure for the mental retardation associated with PKU is a strict low-phenylalanine diet, but from the options given, none are appropriate.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "Which of the following item difficulty (p) levels maximizes the differentiation of examinees into high- and low-performing groups:",
+    "options": [
+      "0",
+      "0.5",
+      "0.8",
+      "0.3",
+      "1.2",
+      "0.2",
+      "0.9",
+      "1.0",
+      "0.7",
+      "1.5"
+    ],
+    "response": "To determine which item difficulty (p) level maximizes the differentiation of examinees into high- and low-performing groups, we need to understand the concept of item difficulty in the context of test design.\n\n1. **Item Difficulty (p)**: This is typically represented as the proportion of examinees who answer a question correctly. It ranges from 0 to 1, where:\n   - **0** means no one answers correctly (very difficult).\n   - **1** means everyone answers correctly (very easy).\n   - A value of **0.5** indicates that half of the examinees answer correctly (moderate difficulty).\n\n2. **Differentiation**: To effectively differentiate between high- and low-performing groups, we want items that are neither too easy nor too difficult. Items that are too easy (p close to 1) will not help in distinguishing between high and low performers, as most examinees will answer them correctly. Conversely, items that are too difficult (p close to 0) will also fail to differentiate, as most examinees will answer them incorrectly.\n\n3. **Optimal Difficulty Level**: Research in educational measurement suggests that items with a difficulty level around **0.3 to 0.7** tend to provide the best discrimination between different levels of ability. \n\nNow, let's analyze the options:\n\n- **0**: Very difficult, not useful for differentiation.\n- **0.5**: Moderate difficulty, can differentiate but not maximally.\n- **0.8**: Too easy, not useful for differentiation.\n- **0.3**: Good level for differentiation.\n- **1.2**: Invalid (p cannot exceed 1).\n- **0.2**: Slightly difficult, can differentiate but not maximally.\n- **0.9**: Too easy, not useful for differentiation.\n- **1.0**: Invalid (p cannot exceed 1).\n- **0.7**: Good level for differentiation.\n- **1.5**: Invalid (p cannot exceed 1).\n\n### Conclusion:\nThe item difficulty levels that maximize differentiation are **0.3** and **0.7**. Among the provided options, both are valid, but **0.3** is often considered slightly better for maximizing differentiation in many contexts. \n\nThus, the best answer is **4. 0.3**.",
+    "chosen_option": "4",
+    "is_correct": false
+  },
+  {
+    "question": "A person is most likely to be helped in an emergency situation when:",
+    "options": [
+      "there is no one else around.",
+      "there are several bystanders.",
+      "there are several bystanders, all of whom are busy with their own tasks.",
+      "there are several bystanders of the same gender.",
+      "there are several bystanders of the opposite gender.",
+      "there are several bystanders who are strangers.",
+      "there is a single bystander.",
+      "there are several bystanders of varying genders.",
+      "there are several bystanders who are medical professionals."
+    ],
+    "response": "In an emergency situation, the likelihood of receiving help can vary based on the presence and characteristics of bystanders. Let's analyze each scenario step by step:\n\n1. **There is no one else around.**  \n   - **Likelihood of help:** High. If someone is alone, they are likely to take action since there are no other bystanders to diffuse responsibility.\n\n2. **There are several bystanders.**  \n   - **Likelihood of help:** Low. The presence of multiple bystanders can lead to the \"bystander effect,\" where individuals feel less personal responsibility to intervene.\n\n3. **There are several bystanders, all of whom are busy with their own tasks.**  \n   - **Likelihood of help:** Very low. If bystanders are preoccupied, they are less likely to notice or respond to the emergency.\n\n4. **There are several bystanders of the same gender.**  \n   - **Likelihood of help:** Moderate. Gender may not significantly impact the likelihood of help, but social dynamics can play a role.\n\n5. **There are several bystanders of the opposite gender.**  \n   - **Likelihood of help:** Moderate. Similar to the previous point, gender dynamics can influence willingness to help, but it’s not a strong factor.\n\n6. **There are several bystanders who are strangers.**  \n   - **Likelihood of help:** Low. Strangers may feel less inclined to intervene due to social norms or fear of involvement.\n\n7. **There is a single bystander.**  \n   - **Likelihood of help:** High. A single bystander is more likely to feel a sense of responsibility to act.\n\n8. **There are several bystanders of varying genders.**  \n   - **Likelihood of help:** Moderate. Diversity in gender may not significantly impact the likelihood of help, but it can create a more inclusive environment.\n\n9. **There are several bystanders who are medical professionals.**  \n   - **Likelihood of help:** Very high. Medical professionals are trained to respond to emergencies and are likely to take action.\n\n### Summary:\n- **Most likely to help:** No one else around, a single bystander, or several medical professionals.\n- **Least likely to help:** Several bystanders, especially if they are busy or strangers.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "The _______ is the least developed area of the brain at birth.",
+    "options": [
+      "occipital lobe",
+      "temporal lobe",
+      "parietal lobe",
+      "cerebral cortex",
+      "limbic system",
+      "hypothalamus",
+      "thalamus",
+      "cerebellum",
+      "brain stem"
+    ],
+    "response": "The least developed area of the brain at birth is the **cerebral cortex** (option 4). \n\n### Step-by-step reasoning:\n\n1. **Cerebral Cortex**: This area is responsible for higher brain functions such as thought, perception, and voluntary movement. It undergoes significant development after birth.\n\n2. **Occipital Lobe**: While it is involved in visual processing, it is somewhat developed at birth.\n\n3. **Temporal Lobe**: This area is involved in processing auditory information and memory, and it has some development at birth.\n\n4. **Parietal Lobe**: This lobe processes sensory information and is also somewhat developed at birth.\n\n5. **Limbic System**: This system, which is involved in emotions and memory, has some development at birth.\n\n6. **Hypothalamus**: This area regulates basic bodily functions and is relatively developed at birth.\n\n7. **Thalamus**: This structure acts as a relay station for sensory information and is also developed at birth.\n\n8. **Cerebellum**: This part of the brain is involved in coordination and balance and is relatively developed at birth.\n\n9. **Brain Stem**: This area controls basic life functions and is fully developed at birth.\n\nIn summary, the cerebral cortex is the least developed area at birth compared to the other brain structures listed.",
+    "chosen_option": "4",
+    "is_correct": true
+  },
+  {
+    "question": "The following measure of general cognitive abilities would be most appropriate for use with a nonverbal adolescent:",
+    "options": [
+      "Wechsler Intelligence Scale for Children–IV",
+      "Kaufman Assessment Battery for Children–II",
+      "Cognitive Assessment System–II",
+      "Woodcock-Johnson IV Tests of Cognitive Abilities",
+      "Differential Ability Scales–II",
+      "Wechsler Preschool and Primary Scale of Intelligence–IV",
+      "Ravens Progressive Matrices",
+      "Stanford-Binet Intelligence Scales–5",
+      "Wechsler Adult Intelligence Scale–IV",
+      "Leiter–R"
+    ],
+    "response": "To determine the most appropriate measure of general cognitive abilities for a nonverbal adolescent, let's analyze the options step by step:\n\n1. **Wechsler Intelligence Scale for Children–IV**: This test includes verbal and nonverbal components, but it is not specifically designed for nonverbal assessment.\n\n2. **Kaufman Assessment Battery for Children–II**: This test has nonverbal subtests, but it also includes verbal components, making it less ideal for a strictly nonverbal assessment.\n\n3. **Cognitive Assessment System–II**: This assessment includes both verbal and nonverbal components, so it may not be the best choice for a nonverbal focus.\n\n4. **Woodcock-Johnson IV Tests of Cognitive Abilities**: This test includes both verbal and nonverbal measures, which may not be suitable for a strictly nonverbal assessment.\n\n5. **Differential Ability Scales–II**: Similar to others, this test includes both verbal and nonverbal components.\n\n6. **Wechsler Preschool and Primary Scale of Intelligence–IV**: This is designed for younger children and may not be appropriate for an adolescent.\n\n7. **Ravens Progressive Matrices**: This is a nonverbal test that measures abstract reasoning and is suitable for individuals who may have language barriers.\n\n8. **Stanford-Binet Intelligence Scales–5**: This test includes both verbal and nonverbal components, so it may not be the best choice for a strictly nonverbal assessment.\n\n9. **Wechsler Adult Intelligence Scale–IV**: This is designed for adults, not adolescents.\n\n10. **Leiter–R**: This is a nonverbal test specifically designed for individuals who may have language difficulties or are nonverbal.\n\n### Conclusion:\nThe two best options for a nonverbal adolescent are **Ravens Progressive Matrices** and **Leiter–R**. However, the **Leiter–R** is specifically designed for nonverbal assessment and is more appropriate for this context.\n\n**Final Answer: Leiter–R**",
+    "chosen_option": "10",
+    "is_correct": true
+  },
+  {
+    "question": "Bartering as a form of payment for psychological services is",
+    "options": [
+      "allowable only if the client initiates the bartering proposal",
+      "allowable only if the bartered goods or services are of personal interest to the psychologist",
+      "allowable only if the bartering is part of the client's treatment plan",
+      "allowable only if the psychologist feels the client cannot afford to pay in traditional ways.",
+      "not allowable under any circumstance",
+      "allowable only if it is not clinically contraindicated and the relationship is not exploitative",
+      "allowable only if the psychologist feels char a client would be denied services if barbering were not allowed",
+      "allowable only if the psychologist initiates the bartering proposal",
+      "allowable only if the dollar value of the psychological service and of the payment service or goods are established in advance",
+      "allowable only if it is established in a written agreement signed by both parties"
+    ],
+    "response": "Bartering for psychological services is a complex issue that requires careful consideration of ethical guidelines and professional standards. Here’s a step-by-step breakdown of the considerations involved:\n\n1. **Client Initiation**: Bartering should only be considered if the client proposes it. This ensures that the client feels comfortable and empowered in the decision-making process.\n\n2. **Personal Interest**: The goods or services offered in exchange should not be of personal interest to the psychologist, as this could lead to conflicts of interest or ethical dilemmas.\n\n3. **Treatment Plan**: Bartering should not be a part of the treatment plan unless it is clinically appropriate and beneficial for the client.\n\n4. **Affordability**: While a psychologist may consider bartering if a client cannot afford traditional payment, this should not be the sole reason for engaging in bartering.\n\n5. **Prohibition**: In some cases, bartering may be deemed inappropriate under certain ethical guidelines, making it not allowable under any circumstance.\n\n6. **Clinical Considerations**: Bartering is allowable only if it is not clinically contraindicated and does not create an exploitative relationship. The psychologist must ensure that the arrangement is in the best interest of the client.\n\n7. **Access to Services**: If bartering is the only way a client can access services, it may be considered, but this should be approached with caution and ethical consideration.\n\n8. **Psychologist Initiation**: It is generally not advisable for the psychologist to initiate the bartering proposal, as this can create an imbalance in the therapeutic relationship.\n\n9. **Value Establishment**: If bartering is to occur, the dollar value of both the psychological service and the goods or services exchanged should be established in advance to ensure fairness and transparency.\n\n10. **Written Agreement**: A written agreement signed by both parties is essential to outline the terms of the bartering arrangement, ensuring clarity and mutual understanding.\n\nIn summary, while bartering can be permissible under certain conditions, it must be approached with caution, ensuring that it is ethical, clinically appropriate, and beneficial for the client.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "An examinee who makes a number of confabulatory responses on the Rorschach has overgeneralized from a part of the inkblot to the whole. Such responses suggest which of the following?",
+    "options": [
+      "an inability to perceive abstract concepts",
+      "high level of stress or anxiety",
+      "a low level of self-esteem",
+      "high intelligence and creativity",
+      "a lack of attention to detail",
+      "a need for immediate gratification",
+      "brain damage, intellectual disability, or emotional disturbance",
+      "a high degree of defensiveness or denial",
+      "a highly imaginative personality",
+      "a high degree of introversion or social withdrawal"
+    ],
+    "response": "To analyze the confabulatory responses on the Rorschach test, we need to consider what it means to overgeneralize from a part of the inkblot to the whole. This behavior typically indicates a cognitive processing issue. Let's evaluate the options step by step:\n\n1. **An inability to perceive abstract concepts**: Overgeneralization suggests difficulty in abstract thinking, as the examinee is unable to integrate the details of the inkblot into a coherent whole. This option is plausible.\n\n2. **High level of stress or anxiety**: While stress or anxiety can affect perception, the specific behavior of overgeneralization is more directly related to cognitive processing rather than emotional states.\n\n3. **A low level of self-esteem**: Low self-esteem does not directly correlate with the cognitive processing issue indicated by confabulatory responses.\n\n4. **High intelligence and creativity**: Overgeneralization is not typically associated with high intelligence or creativity; rather, it suggests a lack of nuanced thinking.\n\n5. **A lack of attention to detail**: This option aligns well with the behavior of overgeneralizing, as it indicates a failure to focus on the specifics of the inkblot.\n\n6. **A need for immediate gratification**: This is more related to impulsivity and does not directly connect to the cognitive processing issue indicated by confabulation.\n\n7. **Brain damage, intellectual disability, or emotional disturbance**: This option is relevant, as significant cognitive processing issues can stem from these conditions, which may lead to overgeneralization.\n\n8. **A high degree of defensiveness or denial**: While defensiveness can affect responses, it does not specifically explain the cognitive pattern of overgeneralization.\n\n9. **A highly imaginative personality**: Imagination does not typically lead to overgeneralization; rather, it often involves detailed and creative thinking.\n\n10. **A high degree of introversion or social withdrawal**: Introversion or social withdrawal does not directly relate to the cognitive processing issues indicated by confabulation.\n\nBased on this analysis, the most relevant options are:\n\n- **1. An inability to perceive abstract concepts**\n- **5. A lack of attention to detail**\n- **7. Brain damage, intellectual disability, or emotional disturbance**\n\nAmong these, **1. An inability to perceive abstract concepts** is the most directly related to the behavior of overgeneralizing from a part to the whole in the context of the Rorschach test.",
+    "chosen_option": "1",
+    "is_correct": false
+  },
+  {
+    "question": "The information that family members continuously exchange and that helps minimize deviation and maintain the family's stability is referred to as ________ feedback.",
+    "options": [
+      "positive",
+      "negative",
+      "feedback loop",
+      "neutral",
+      "reciprocal",
+      "regulatory",
+      "internal",
+      "counteractive",
+      "external",
+      "circular"
+    ],
+    "response": "The information that family members continuously exchange to help minimize deviation and maintain the family's stability is referred to as **negative feedback**. \n\n### Step-by-step reasoning:\n1. **Understanding Feedback**: Feedback in systems refers to the information that is used to adjust behavior or processes.\n2. **Types of Feedback**:\n   - **Positive Feedback**: Amplifies changes or deviations, leading to growth or escalation.\n   - **Negative Feedback**: Counteracts changes or deviations, promoting stability and homeostasis.\n3. **Context of Family Dynamics**: In a family system, negative feedback helps to correct behaviors that deviate from the norm, thus maintaining stability.\n4. **Conclusion**: Therefore, the correct answer is **2. negative**.",
+    "chosen_option": "2",
+    "is_correct": true
+  }
+]

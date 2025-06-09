@@ -1,0 +1,195 @@
+[
+  {
+    "question": "Which of the following would be classified under C when calculating GDP?",
+    "options": [
+      "The purchase of a new car by a car rental company",
+      "The purchase of a new construction crane by a construction company",
+      "A company buying a new office building",
+      "A homeowner mowing her own lawn",
+      "Flour purchased by a baker to make donuts",
+      "The purchase of new computer software by an accounting firm",
+      "$50.00 spent eating out at a restaurant",
+      "A barber cutting his own hair"
+    ],
+    "response": "To classify items under C (Consumption) when calculating GDP, we need to focus on personal consumption expenditures, which include spending by households on goods and services. Let's analyze each option step by step:\n\n1. **The purchase of a new car by a car rental company**: This is a business investment, not personal consumption. **Not classified under C.**\n\n2. **The purchase of a new construction crane by a construction company**: This is also a business investment. **Not classified under C.**\n\n3. **A company buying a new office building**: This is a business investment in real estate. **Not classified under C.**\n\n4. **A homeowner mowing her own lawn**: This is not a market transaction and does not involve spending money. **Not classified under C.**\n\n5. **Flour purchased by a baker to make donuts**: This is an intermediate good used in production, not final consumption. **Not classified under C.**\n\n6. **The purchase of new computer software by an accounting firm**: This is a business investment in software. **Not classified under C.**\n\n7. **$50.00 spent eating out at a restaurant**: This is a direct expenditure by a household on a service. **Classified under C.**\n\n8. **A barber cutting his own hair**: Similar to mowing the lawn, this is not a market transaction. **Not classified under C.**\n\n### Summary:\nThe only item classified under C (Consumption) is:\n- **$50.00 spent eating out at a restaurant**.",
+    "chosen_option": "7",
+    "is_correct": true
+  },
+  {
+    "question": "The aggregate demand curve is",
+    "options": [
+      "not found by adding product demand curves horizontally or vertically",
+      "a vertical summation of market demand curves",
+      "found by adding product demand curves both horizontally and vertically",
+      "a horizontal subtraction of firm demand curves",
+      "a simple aggregation of demand curves for individual goods",
+      "a vertical subtraction of market demand curves",
+      "a simple aggregation of supply curves for individual goods",
+      "a horizontal summation of firm demand curves",
+      "a horizontal summation of market demand curves",
+      "a vertical summation of firm demand curves"
+    ],
+    "response": "To understand the aggregate demand curve, let's break down the options step by step:\n\n1. **Not found by adding product demand curves horizontally or vertically**: This is incorrect. The aggregate demand curve is derived from the total demand for all goods and services in an economy.\n\n2. **A vertical summation of market demand curves**: This is incorrect. Aggregate demand is not found by summing vertically.\n\n3. **Found by adding product demand curves both horizontally and vertically**: This is incorrect. Aggregate demand is typically found through horizontal summation.\n\n4. **A horizontal subtraction of firm demand curves**: This is incorrect. Aggregate demand is not derived through subtraction.\n\n5. **A simple aggregation of demand curves for individual goods**: This is misleading. While it involves individual goods, it’s more about summing the quantities demanded at various price levels.\n\n6. **A vertical subtraction of market demand curves**: This is incorrect. Aggregate demand is not derived through subtraction.\n\n7. **A simple aggregation of supply curves for individual goods**: This is incorrect. Aggregate demand is about demand, not supply.\n\n8. **A horizontal summation of firm demand curves**: This is partially correct but not the complete picture. Aggregate demand is more about the total demand in the economy rather than just firms.\n\n9. **A horizontal summation of market demand curves**: This is correct. The aggregate demand curve is derived by horizontally summing the demand curves of all consumers in the market for all goods and services.\n\n10. **A vertical summation of firm demand curves**: This is incorrect. Aggregate demand is not derived through vertical summation.\n\n### Conclusion:\nThe correct answer is **9. a horizontal summation of market demand curves**. The aggregate demand curve represents the total quantity of goods and services demanded across all levels of the economy at various price levels.",
+    "chosen_option": "9",
+    "is_correct": false
+  },
+  {
+    "question": "Which of the following is a tool used by the Fed to increase the money supply?",
+    "options": [
+      "Decreasing government spending.",
+      "A lower discount rate.",
+      "A higher corporate tax rate.",
+      "Selling foreign exchange reserves.",
+      "Selling Treasury securities to commercial banks.",
+      "Decreasing the minimum wage.",
+      "Selling government bonds to the public.",
+      "Increasing interest rates.",
+      "A lower personal income tax rate.",
+      "A higher reserve ratio."
+    ],
+    "response": "To determine which option is a tool used by the Federal Reserve (the Fed) to increase the money supply, let's analyze each option step by step:\n\n1. **Decreasing government spending**: This would likely decrease the money supply, as less government spending means less money circulating in the economy.\n\n2. **A lower discount rate**: This is a tool used by the Fed. Lowering the discount rate makes it cheaper for banks to borrow money from the Fed, which can encourage banks to lend more, thus increasing the money supply.\n\n3. **A higher corporate tax rate**: This would likely decrease the money supply, as it reduces the amount of money businesses have to invest and spend.\n\n4. **Selling foreign exchange reserves**: This action would typically involve converting foreign currency into domestic currency, but it is not a primary tool of the Fed for increasing the money supply.\n\n5. **Selling Treasury securities to commercial banks**: This would decrease the money supply, as banks would pay for these securities, reducing the reserves they have available to lend.\n\n6. **Decreasing the minimum wage**: This would not directly affect the money supply; it may impact employment and spending but is not a tool of the Fed.\n\n7. **Selling government bonds to the public**: This would decrease the money supply, as it takes money out of circulation when the public buys bonds.\n\n8. **Increasing interest rates**: This would decrease the money supply, as higher rates discourage borrowing and spending.\n\n9. **A lower personal income tax rate**: While this could increase disposable income and spending, it is not a direct tool of the Fed.\n\n10. **A higher reserve ratio**: This would decrease the money supply, as banks would have to hold more reserves and would have less to lend.\n\nBased on this analysis, the correct answer is:\n\n**2. A lower discount rate.**",
+    "chosen_option": "2",
+    "is_correct": true
+  },
+  {
+    "question": "If the world price of copper exceeds the domestic (U.S.) price of copper we would expect",
+    "options": [
+      "the demand for U.S. copper to fall.",
+      "the United States to impose a tariff on imported copper to protect domestic producers.",
+      "the United States to subsidize domestic copper producers.",
+      "the United States to import more copper.",
+      "a decrease in the U.S. production of copper.",
+      "the demand for imported copper in the U.S. to fall.",
+      "a growing trade deficit in the United States in goods and services.",
+      "the domestic price of copper to increase.",
+      "the United States to be a net exporter of copper.",
+      "the United States to impose quotas on copper exports."
+    ],
+    "response": "Let's analyze the situation step by step, considering the implications of a world price of copper that exceeds the domestic price in the U.S.\n\n1. **The demand for U.S. copper to fall.**  \n   - This is unlikely. If the world price is higher, U.S. producers may find it more profitable to sell copper abroad, potentially increasing demand for U.S. copper.\n\n2. **The United States to impose a tariff on imported copper to protect domestic producers.**  \n   - This could happen, but it’s not a guaranteed response. Tariffs are often used to protect domestic industries, but if the world price is higher, domestic producers may not need protection.\n\n3. **The United States to subsidize domestic copper producers.**  \n   - This is also a possibility, but again, if the world price is higher, domestic producers may not require subsidies to compete.\n\n4. **The United States to import more copper.**  \n   - This is likely. If the world price is higher, U.S. consumers and industries may import more copper to take advantage of lower domestic prices.\n\n5. **A decrease in the U.S. production of copper.**  \n   - This is unlikely. Higher world prices may incentivize U.S. producers to increase production to export more.\n\n6. **The demand for imported copper in the U.S. to fall.**  \n   - This is unlikely. If the world price is higher, the demand for imported copper may actually increase as consumers seek cheaper options domestically.\n\n7. **A growing trade deficit in the United States in goods and services.**  \n   - This could happen if the U.S. imports more copper and other goods, but it depends on the overall balance of trade.\n\n8. **The domestic price of copper to increase.**  \n   - This is likely. If demand for U.S. copper increases due to higher world prices, domestic prices may rise as well.\n\n9. **The United States to be a net exporter of copper.**  \n   - This is possible if U.S. producers can sell at higher world prices, but if domestic prices remain lower, the U.S. may import more.\n\n10. **The United States to impose quotas on copper exports.**  \n    - This is unlikely in this scenario. Quotas are typically used to limit exports, but if world prices are high, producers would want to export more, not less.\n\n### Summary:\nIn summary, if the world price of copper exceeds the domestic price, we would likely see an increase in imports, a potential rise in domestic prices, and possibly an increase in production as U.S. producers respond to higher world prices. The overall trade balance could be affected, but the specific outcomes depend on various market dynamics.",
+    "chosen_option": "4",
+    "is_correct": false
+  },
+  {
+    "question": "The natural rate of unemployment",
+    "options": [
+      "includes structural and frictional unemployment",
+      "includes only structural and cyclical unemployment but not frictional",
+      "only includes cyclical unemployment",
+      "includes only cyclical and frictional unemployment but not structural",
+      "includes structural frictional and cyclical unemployment",
+      "only includes frictional unemployment",
+      "includes cyclical and frictional unemployment",
+      "includes structural and cyclical unemployment",
+      "does not include structural, frictional, or cyclical unemployment",
+      "only includes structural unemployment"
+    ],
+    "response": "The natural rate of unemployment refers to the level of unemployment that exists when the economy is at full employment, meaning that it reflects the normal turnover in the labor market. Let's analyze the options step by step:\n\n1. **Includes structural and frictional unemployment**: This is correct. The natural rate of unemployment consists of frictional unemployment (short-term transitions) and structural unemployment (mismatches between skills and job requirements).\n\n2. **Includes only structural and cyclical unemployment but not frictional**: Incorrect. The natural rate does not include cyclical unemployment, which is related to economic downturns.\n\n3. **Only includes cyclical unemployment**: Incorrect. The natural rate does not include cyclical unemployment.\n\n4. **Includes only cyclical and frictional unemployment but not structural**: Incorrect. Structural unemployment is a key component of the natural rate.\n\n5. **Includes structural, frictional, and cyclical unemployment**: Incorrect. The natural rate does not include cyclical unemployment.\n\n6. **Only includes frictional unemployment**: Incorrect. While frictional unemployment is part of the natural rate, it does not encompass the entire concept.\n\n7. **Includes cyclical and frictional unemployment**: Incorrect. The natural rate does not include cyclical unemployment.\n\n8. **Includes structural and cyclical unemployment**: Incorrect. The natural rate does not include cyclical unemployment.\n\n9. **Does not include structural, frictional, or cyclical unemployment**: Incorrect. The natural rate specifically includes structural and frictional unemployment.\n\n10. **Only includes structural unemployment**: Incorrect. While structural unemployment is part of the natural rate, it also includes frictional unemployment.\n\n### Conclusion:\nThe correct answer is **1. includes structural and frictional unemployment**.",
+    "chosen_option": "1",
+    "is_correct": true
+  },
+  {
+    "question": "Which of the following would shift the aggregate demand curve to the right?",
+    "options": [
+      "An increase in unemployment rates",
+      "A decrease in government spending",
+      "A decrease in the supply of money",
+      "An increase in savings",
+      "An increase in interest rates",
+      "Depreciation in the international value of the dollar",
+      "An increase in the price level",
+      "A decrease in consumer confidence",
+      "An increase in personal income tax rates"
+    ],
+    "response": "To determine which factors would shift the aggregate demand (AD) curve to the right, let's analyze each option step by step:\n\n1. **An increase in unemployment rates**: This typically leads to lower consumer spending, which would shift the AD curve to the left, not the right.\n\n2. **A decrease in government spending**: This would reduce overall demand in the economy, shifting the AD curve to the left.\n\n3. **A decrease in the supply of money**: This would lead to higher interest rates and reduced spending, shifting the AD curve to the left.\n\n4. **An increase in savings**: While this might seem beneficial, increased savings can lead to decreased consumption in the short term, shifting the AD curve to the left.\n\n5. **An increase in interest rates**: Higher interest rates discourage borrowing and spending, which would shift the AD curve to the left.\n\n6. **Depreciation in the international value of the dollar**: A weaker dollar makes exports cheaper and imports more expensive, which can increase net exports and shift the AD curve to the right.\n\n7. **An increase in the price level**: This does not shift the AD curve; rather, it results in a movement along the curve.\n\n8. **A decrease in consumer confidence**: This typically leads to reduced spending, shifting the AD curve to the left.\n\n9. **An increase in personal income tax rates**: Higher taxes reduce disposable income, leading to decreased consumption and shifting the AD curve to the left.\n\n### Conclusion:\nThe only option that would shift the aggregate demand curve to the right is:\n\n**6. Depreciation in the international value of the dollar.**",
+    "chosen_option": "6",
+    "is_correct": true
+  },
+  {
+    "question": "Crowding out",
+    "options": [
+      "occurs when interest rates fall due to government borrowing.",
+      "occurs when consumers and firms spend less offsetting expansionary fiscal policy.",
+      "occurs when the government reduces its spending in response to inflation.",
+      "is a consequence of contractionary fiscal policy.",
+      "is one reason fiscal policy is so effective.",
+      "is when expansionary fiscal policy leads to a decrease in interest rates.",
+      "happens when the government increases taxes to reduce the budget deficit.",
+      "causes the aggregate demand curve to shift to the right."
+    ],
+    "response": "Let's break down the concept of \"crowding out\" step by step, clarifying what it means and how it relates to fiscal policy:\n\n1. **Crowding out occurs when interest rates fall due to government borrowing.**  \n   - This statement is incorrect. Crowding out typically occurs when government borrowing leads to higher interest rates, which can reduce private investment.\n\n2. **Crowding out occurs when consumers and firms spend less, offsetting expansionary fiscal policy.**  \n   - This is a more accurate description. When the government increases spending (expansionary fiscal policy), it can lead to higher interest rates, which may discourage private spending.\n\n3. **Crowding out occurs when the government reduces its spending in response to inflation.**  \n   - This statement is not directly related to crowding out. It describes a contractionary fiscal policy rather than the crowding out effect.\n\n4. **Crowding out is a consequence of contractionary fiscal policy.**  \n   - This is not accurate. Crowding out is more associated with expansionary fiscal policy leading to higher interest rates, which can reduce private investment.\n\n5. **Crowding out is one reason fiscal policy is so effective.**  \n   - This statement is misleading. Crowding out is often seen as a limitation of fiscal policy effectiveness, as it can negate some of the intended effects of government spending.\n\n6. **Crowding out is when expansionary fiscal policy leads to a decrease in interest rates.**  \n   - This is incorrect. Crowding out typically results in an increase in interest rates due to higher government borrowing.\n\n7. **Crowding out happens when the government increases taxes to reduce the budget deficit.**  \n   - This statement is not directly related to crowding out. While increasing taxes can affect overall demand, crowding out specifically refers to the impact of government borrowing on private investment.\n\n8. **Crowding out causes the aggregate demand curve to shift to the right.**  \n   - This is incorrect. Crowding out can lead to a leftward shift in the aggregate demand curve if it reduces private investment in response to higher interest rates.\n\n### Summary:\n- **Crowding out** primarily refers to the phenomenon where increased government borrowing leads to higher interest rates, which in turn reduces private investment and consumption. This can offset the intended effects of expansionary fiscal policy.",
+    "chosen_option": "2",
+    "is_correct": true
+  },
+  {
+    "question": "The GDP Deflator differs from the CPI in that the GDP Deflator",
+    "options": [
+      "excludes goods and services not bought by consumers",
+      "incorporates current year quantities in its calculations",
+      "only incorporates current year prices in its calculations",
+      "only incorporates base year quantities in its calculations",
+      "is not affected by the change in prices over time",
+      "incorporates both current year prices and base year prices",
+      "is thought to slightly underestimate the inflation rate",
+      "uses both current and base year quantities in its calculations",
+      "is thought to slightly overestimate the inflation rate",
+      "uses base year quantities in its calculations"
+    ],
+    "response": "To understand how the GDP Deflator differs from the Consumer Price Index (CPI), let's analyze the statements step by step:\n\n1. **Excludes goods and services not bought by consumers**: This is true for the CPI, which focuses on a basket of goods and services typically purchased by households. The GDP Deflator includes all goods and services produced domestically, regardless of whether they are purchased by consumers.\n\n2. **Incorporates current year quantities in its calculations**: This is true for the GDP Deflator. It measures the ratio of nominal GDP (current prices) to real GDP (base year prices), using current year quantities.\n\n3. **Only incorporates current year prices in its calculations**: This is not entirely accurate. The GDP Deflator uses current year prices for nominal GDP but compares it to real GDP, which is based on base year prices.\n\n4. **Only incorporates base year quantities in its calculations**: This is true for the calculation of real GDP, but not for the GDP Deflator itself, which uses current year quantities.\n\n5. **Is not affected by the change in prices over time**: This is false. The GDP Deflator is designed to measure changes in the price level over time.\n\n6. **Incorporates both current year prices and base year prices**: This is true. The GDP Deflator compares current year prices to base year prices.\n\n7. **Is thought to slightly underestimate the inflation rate**: This is a common belief about the CPI, not the GDP Deflator. The GDP Deflator is generally considered to provide a more comprehensive measure of inflation.\n\n8. **Uses both current and base year quantities in its calculations**: This is false. The GDP Deflator uses current year quantities for nominal GDP and base year prices for real GDP.\n\n9. **Is thought to slightly overestimate the inflation rate**: This is not typically the case. The GDP Deflator is generally seen as a more accurate measure of inflation compared to the CPI.\n\n10. **Uses base year quantities in its calculations**: This is true for real GDP, but not for the GDP Deflator itself, which uses current year quantities.\n\n### Summary:\nThe key differences are that the GDP Deflator includes all domestically produced goods and services, uses current year quantities, and compares them to base year prices. In contrast, the CPI focuses on a fixed basket of consumer goods and services. The GDP Deflator is generally considered to provide a more comprehensive measure of inflation.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "Marginal revenue equals marginal cost at the point where",
+    "options": [
+      "total product is at its highest point",
+      "average product is at its highest point",
+      "total revenue is at its maximum, irrespective of total cost",
+      "total revenue is less than total cost",
+      "marginal product is at its highest point",
+      "average revenue equals average cost",
+      "fixed cost is at its lowest point",
+      "total revenue is equal to total cost",
+      "total revenue is greater than total cost at its greatest distance",
+      "variable cost is at its lowest point"
+    ],
+    "response": "To understand where marginal revenue equals marginal cost, let's break down the options step by step:\n\n1. **Total product is at its highest point**: This is not correct. Total product can continue to increase even when marginal revenue equals marginal cost.\n\n2. **Average product is at its highest point**: This is not the correct condition for marginal revenue equaling marginal cost.\n\n3. **Total revenue is at its maximum, irrespective of total cost**: This is a possibility, but not the defining condition for marginal revenue equaling marginal cost.\n\n4. **Total revenue is less than total cost**: This does not relate to the point where marginal revenue equals marginal cost.\n\n5. **Marginal product is at its highest point**: This is not the correct condition. Marginal product can be high while marginal revenue and marginal cost are not equal.\n\n6. **Average revenue equals average cost**: This is not the condition for marginal revenue equaling marginal cost.\n\n7. **Fixed cost is at its lowest point**: This is unrelated to the marginal revenue and marginal cost relationship.\n\n8. **Total revenue is equal to total cost**: This indicates a break-even point but does not specifically relate to the equality of marginal revenue and marginal cost.\n\n9. **Total revenue is greater than total cost at its greatest distance**: This is not the condition for marginal revenue equaling marginal cost.\n\n10. **Variable cost is at its lowest point**: This does not relate to the marginal revenue and marginal cost relationship.\n\n### Conclusion:\nThe correct understanding is that **marginal revenue equals marginal cost at the profit-maximizing output level**. This is where a firm maximizes its profit, which occurs when the additional revenue from selling one more unit (marginal revenue) equals the additional cost of producing that unit (marginal cost). \n\nNone of the options provided directly state this, but the closest implication is that it relates to maximizing profit, which is not explicitly listed.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "When the price of pears increases, we expect the following:",
+    "options": [
+      "Quantity supplied of pears falls.",
+      "The price of apples falls.",
+      "There is no change in the quantity demanded or supplied.",
+      "The price of pears falls.",
+      "Quantity demanded of pears falls.",
+      "There is a surplus of pears in the market.",
+      "Quantity demanded of pears rises.",
+      "Demand for pears falls.",
+      "Quantity supplied of pears rises.",
+      "Demand for pears rises."
+    ],
+    "response": "When the price of pears increases, we can analyze the situation step by step:\n\n1. **Quantity supplied of pears falls**: This is incorrect. Typically, when the price of a good increases, suppliers are incentivized to produce more, so the quantity supplied would actually rise.\n\n2. **The price of apples falls**: This could happen if pears and apples are substitutes. If pears become more expensive, consumers might buy fewer pears and switch to apples, potentially increasing the demand for apples and raising their price instead.\n\n3. **There is no change in the quantity demanded or supplied**: This is incorrect. An increase in price usually leads to a change in quantity demanded and supplied.\n\n4. **The price of pears falls**: This is incorrect in the context of the initial statement. The price of pears has increased, so we wouldn't expect it to fall immediately.\n\n5. **Quantity demanded of pears falls**: This is correct. As the price of pears increases, consumers will typically buy less, leading to a decrease in quantity demanded.\n\n6. **There is a surplus of pears in the market**: This could occur if the quantity supplied exceeds the quantity demanded at the new higher price, leading to a surplus.\n\n7. **Quantity demanded of pears rises**: This is incorrect in the context of the initial statement. As the price increases, the quantity demanded would fall, not rise.\n\n8. **Demand for pears falls**: This is not necessarily true. The demand curve itself does not shift just because of a price change; rather, the quantity demanded changes along the demand curve.\n\n9. **Quantity supplied of pears rises**: This is correct. As the price of pears increases, suppliers are incentivized to produce more, leading to an increase in quantity supplied.\n\n10. **Demand for pears rises**: This is incorrect. An increase in price does not increase demand; it typically leads to a decrease in quantity demanded.\n\n### Summary:\n- The correct implications of an increase in the price of pears are that the **quantity demanded of pears falls** and the **quantity supplied of pears rises**. There may also be a surplus if the quantity supplied exceeds the quantity demanded at the new price.",
+    "chosen_option": "5",
+    "is_correct": true
+  },
+  {
+    "question": "Which of the following statements is true for a firm in a perfectly competitive industry?",
+    "options": [
+      "Average revenue equals marginal revenue.",
+      "Marginal revenue is always increasing.",
+      "Average revenue is always negative.",
+      "Marginal revenue equals total revenue.",
+      "Average revenue is initially negative and then becomes positive.",
+      "Marginal revenue is decreasing.",
+      "Total revenue always decreases.",
+      "Total revenue increases and then decreases.",
+      "Total revenue equals average revenue.",
+      "Marginal revenue is initially positive and then becomes negative."
+    ],
+    "response": "To determine which statement is true for a firm in a perfectly competitive industry, let's analyze each option step by step:\n\n1. **Average revenue equals marginal revenue.**  \n   - **True.** In a perfectly competitive market, the price is constant, and thus average revenue (AR) equals price (P) and marginal revenue (MR) also equals price (P). Therefore, AR = MR.\n\n2. **Marginal revenue is always increasing.**  \n   - **False.** In perfect competition, marginal revenue is constant and equal to the price, not increasing.\n\n3. **Average revenue is always negative.**  \n   - **False.** Average revenue is equal to price, which is positive in a competitive market.\n\n4. **Marginal revenue equals total revenue.**  \n   - **False.** Marginal revenue is the change in total revenue from selling one more unit, not equal to total revenue itself.\n\n5. **Average revenue is initially negative and then becomes positive.**  \n   - **False.** Average revenue (price) is not negative in a competitive market.\n\n6. **Marginal revenue is decreasing.**  \n   - **False.** Marginal revenue is constant in perfect competition.\n\n7. **Total revenue always decreases.**  \n   - **False.** Total revenue can increase, decrease, or remain constant depending on the quantity sold, but it does not always decrease.\n\n8. **Total revenue increases and then decreases.**  \n   - **False.** In perfect competition, total revenue can increase as long as the firm is selling more units at a constant price, but it does not necessarily decrease after increasing.\n\n9. **Total revenue equals average revenue.**  \n   - **False.** Total revenue (TR) is equal to price (P) times quantity (Q), while average revenue (AR) is TR divided by quantity (Q). They are related but not equal.\n\n10. **Marginal revenue is initially positive and then becomes negative.**  \n    - **False.** In perfect competition, marginal revenue remains constant and equal to the price, so it does not become negative.\n\n### Conclusion:\nThe only true statement for a firm in a perfectly competitive industry is **1. Average revenue equals marginal revenue.**",
+    "chosen_option": "1",
+    "is_correct": true
+  }
+]

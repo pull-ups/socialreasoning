@@ -1,0 +1,199 @@
+[
+  {
+    "question": "Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.",
+    "options": [
+      "Safe practices, Fear, Jealousy, Trivial",
+      "Unsafe practices, Distress, Joy, Trivial",
+      "Safe practices, Wants, Jealousy, Trivial",
+      "Safe practices, Distress, Fear, Trivial",
+      "Unsafe practices, Wants, Jealousy, Serious",
+      "Safe practices, Distress, Jealousy, Serious",
+      "Safe practices, Wants, Fear, Serious",
+      "Unsafe practices, Wants, Fear, Trivial",
+      "Unsafe practices, Distress, Fear, Serious"
+    ],
+    "response": "To fill in the blanks based on typical advertising regulatory guidelines, we can analyze the options step by step:\n\n1. **Encourage**: Advertisements should not encourage unsafe practices.\n2. **Cause unnecessary**: Advertisements should not cause unnecessary distress.\n3. **Or**: This connects the second and fourth points.\n4. **Must not cause**: Advertisements must not cause serious offence.\n\nBased on this reasoning, the best fit is:\n\n**9. Unsafe practices, Distress, Fear, Serious**\n\nThis option aligns with common advertising regulations that aim to protect consumers from harmful or distressing content.",
+    "chosen_option": "9",
+    "is_correct": true
+  },
+  {
+    "question": "Managers are entrusted to run the company in the best interest of ________. Specifically, they have a duty to act for the benefit of the company, as well as a duty of ________ and of _______.",
+    "options": [
+      "Shareholders, Diligence, Self-interest",
+      "Shareholders, Self-interest, Care and Skill",
+      "Stakeholders, Care and skill, Self-interest",
+      "Stakeholders, Diligence, Care and Skill",
+      "Customers, Care and Skill, Diligence",
+      "Shareholders, Care and Skill, Diligence",
+      "Shareholders, Self-interest, Diligence",
+      "Employees, Care and Skill, Diligence",
+      "Stakeholders, Self-interest, Diligence",
+      "Stakeholder, Care and Skill, Diligence"
+    ],
+    "response": "The correct answer is:\n\n**6. Shareholders, Care and Skill, Diligence**\n\nManagers are entrusted to run the company in the best interest of shareholders, and they have a duty to act with care and skill, as well as diligence in their responsibilities.",
+    "chosen_option": "6",
+    "is_correct": true
+  },
+  {
+    "question": "There are two main issues associated with _____ sizing. _______ is a key issue as due to the information policy of the corporation it can be argued that employees have a right to know if they are being made redundant. _______ is a second issue, particularly the ________ package that employees receive when laid off.",
+    "options": [
+      "Down, Autonomy, Remuneration, Benefit",
+      "Down, Involvement, Independence, Benefit",
+      "Up, Independence, Involvement, Benefit",
+      "Down, Privacy, Autonomy, Benefit",
+      "Up, Involvement, Autonomy, Compensation",
+      "Down, Independence, Autonomy, Compensation",
+      "Up, Involvement, Remuneration, Severance",
+      "Up, Privacy, Remuneration, Severance",
+      "Up, Autonomy, Remuneration, Compensation",
+      "Down, Involvement, Remuneration, Compensation"
+    ],
+    "response": "To fill in the blanks logically, we need to consider the context of the issues related to sizing, particularly in a corporate environment where layoffs or redundancies are involved.\n\n1. The first blank likely refers to the direction of sizing, which in the context of layoffs is often \"Down\" (as in downsizing).\n2. The second blank should refer to the right of employees to know about their redundancy, which relates to \"Privacy\" or \"Autonomy.\"\n3. The third blank should refer to the second issue, which is about the financial aspect of layoffs, typically referred to as \"Severance\" or \"Compensation.\"\n\nGiven these considerations, the best fit is:\n\n**4. Down, Privacy, Autonomy, Benefit**\n\nThis option makes sense as it addresses the issues of downsizing, the employees' right to know (privacy), and the financial package (benefit) they receive when laid off.",
+    "chosen_option": "4",
+    "is_correct": false
+  },
+  {
+    "question": "_______ locate morality beyond the sphere of rationality in an emotional 'moral impulse' towards others.",
+    "options": [
+      "Ethical egoism",
+      "Ethics of duty",
+      "Postmodern ethics",
+      "Consequentialist ethics",
+      "Utilitarian ethics",
+      "Deontological ethics",
+      "Virtue ethics",
+      "Ethics of care",
+      "Ethics of rights",
+      "Relativist ethics"
+    ],
+    "response": "The correct answer is **8. Ethics of care**.\n\n### Step-by-step reasoning:\n\n1. **Understanding the options**: Each option represents a different ethical framework or theory.\n  \n2. **Identifying the key phrase**: The phrase \"locate morality beyond the sphere of rationality in an emotional 'moral impulse' towards others\" suggests a focus on emotions and relationships rather than purely rational or duty-based approaches.\n\n3. **Analyzing the options**:\n   - **Ethical egoism**: Focuses on self-interest, not on moral impulses towards others.\n   - **Ethics of duty**: Centers on obligations and rules, which are rational rather than emotional.\n   - **Postmodern ethics**: Often critiques traditional ethics but doesn't specifically emphasize emotional impulses.\n   - **Consequentialist ethics**: Evaluates morality based on outcomes, which is more rational.\n   - **Utilitarian ethics**: A form of consequentialism that seeks the greatest good, again more rational.\n   - **Deontological ethics**: Focuses on rules and duties, not emotional impulses.\n   - **Virtue ethics**: Emphasizes character and virtues but is still more rational than emotional.\n   - **Ethics of care**: Specifically emphasizes relationships, empathy, and emotional connections in moral decision-making.\n   - **Ethics of rights**: Focuses on individual rights, which is more rational and legalistic.\n   - **Relativist ethics**: Suggests that morality is relative to cultural contexts, but doesn't focus on emotional impulses.\n\n4. **Conclusion**: The **ethics of care** is the only framework that explicitly emphasizes emotional connections and moral impulses towards others, making it the best fit for the statement provided.",
+    "chosen_option": "8",
+    "is_correct": false
+  },
+  {
+    "question": " Some of key differences between Islamic finance and conventional finance include - prohibition of charging and paying _______, prohibition on ______ and ______ transactions, prohibition of sinful investment and requirement for all financial products to be backed by __________.",
+    "options": [
+      "Interest, Certain, Assured, Both tangible and intangible assets",
+      "Interest, Uncertain, Assured, Both tangible and intangible assets",
+      "Interest, Uncertain, Speculative, Intangible assets",
+      "Interest, Certain, Assured, Tangible assets",
+      "Interest, Uncertain, Assured, Intangible assets",
+      "Profit, Uncertain, Speculative, Tangible assets",
+      "Interest, Uncertain, Speculative, Tangible assets",
+      "Interest, Certain, Speculative, Intangible assets",
+      "Profit, Certain, Assured, Tangible assets",
+      "Interest, Certain, Speculative, Both tangible and intangible assets"
+    ],
+    "response": "The correct answer is:\n\n**1. Interest, Certain, Assured, Both tangible and intangible assets**\n\n### Explanation:\n1. **Prohibition of charging and paying Interest**: Islamic finance prohibits riba (interest), which is a key difference from conventional finance.\n2. **Prohibition on Certain and Assured transactions**: Islamic finance avoids transactions that are certain and assured, as they may involve excessive risk or speculation.\n3. **Prohibition of sinful investment**: Investments in industries considered haram (forbidden) are not allowed.\n4. **Requirement for all financial products to be backed by both tangible and intangible assets**: Islamic finance requires that financial transactions be backed by real assets or services, ensuring that they have intrinsic value. \n\nThis aligns with the principles of Islamic finance, which emphasize ethical investing and risk-sharing.",
+    "chosen_option": "1",
+    "is_correct": false
+  },
+  {
+    "question": " Which of the following are the three broad groups of organizational characteristics segmentation criteria?",
+    "options": [
+      "Organizational size, industry type, and geographical location.",
+      "Organizational size, industry type, and age of company.",
+      "Organizational size, industry type, and customer base.",
+      "Organizational size, industry type, and annual revenue.",
+      "Organizational size, industry type, and business strategy.",
+      "None of the above.",
+      "Organizational size, industry type, and gender.",
+      "Organizational size, industry type, and number of branches.",
+      "Psychographics, purchaser, and behavioural criteria.",
+      "Organizational size, industry type, and number of employees."
+    ],
+    "response": "To determine the three broad groups of organizational characteristics segmentation criteria, let's analyze the options step by step:\n\n1. **Organizational size, industry type, and geographical location.**  \n   - This option includes relevant criteria but geographical location is less commonly used in organizational segmentation.\n\n2. **Organizational size, industry type, and age of company.**  \n   - Age of the company is not a standard segmentation criterion.\n\n3. **Organizational size, industry type, and customer base.**  \n   - Customer base is more related to market segmentation rather than organizational characteristics.\n\n4. **Organizational size, industry type, and annual revenue.**  \n   - Annual revenue is a valid criterion, but it may not be as broad as other options.\n\n5. **Organizational size, industry type, and business strategy.**  \n   - Business strategy is relevant but not a standard characteristic for segmentation.\n\n6. **None of the above.**  \n   - This option suggests that none of the previous options are correct.\n\n7. **Organizational size, industry type, and gender.**  \n   - Gender is not a relevant criterion for organizational segmentation.\n\n8. **Organizational size, industry type, and number of branches.**  \n   - Number of branches is a specific criterion but not as broad as others.\n\n9. **Psychographics, purchaser, and behavioural criteria.**  \n   - This option relates more to consumer segmentation rather than organizational characteristics.\n\n10. **Organizational size, industry type, and number of employees.**  \n    - This option includes size, industry, and a specific organizational characteristic (number of employees), making it a strong candidate.\n\nAfter analyzing all options, **Option 10: Organizational size, industry type, and number of employees** is the most appropriate choice for the three broad groups of organizational characteristics segmentation criteria.",
+    "chosen_option": "10",
+    "is_correct": false
+  },
+  {
+    "question": " Pine and Gilmore (1999) derive four distinct realms of experience, based on two dimensions. What are these dimensions?",
+    "options": [
+      "Customer participation and environmental acquisition.",
+      "Environmental acquisition and environmental relationship.",
+      "Customer retention and environmental relationship.",
+      "Customer participation and environmental relationship.",
+      "Customer acquisition and customer retention.",
+      "Customer participation and customer relationship.",
+      "Customer acquisition and environmental participation.",
+      "Environmental participation and customer relationship.",
+      "Customer retention and customer relationship.",
+      "Customer acquisition and environmental relationship."
+    ],
+    "response": "Pine and Gilmore (1999) identify two key dimensions that form the basis for their four realms of experience:\n\n1. **Customer Participation**: This dimension refers to the degree to which customers are involved in the experience. It can range from passive participation (where customers are more like observers) to active participation (where customers are engaged and involved in the experience).\n\n2. **Environmental Relationship**: This dimension pertains to the nature of the environment in which the experience occurs. It can be categorized as either a physical environment (the tangible aspects of the experience) or a more abstract environment (the emotional or social context).\n\nBased on these two dimensions, the four realms of experience are:\n\n1. **Entertainment**: Low customer participation, passive engagement in a physical environment.\n2. **Education**: Active customer participation, with a focus on learning in a physical environment.\n3. **Escapism**: High customer participation, where customers are fully immersed in an experience that may be more abstract or emotional.\n4. **Esthetic**: Low customer participation, but the experience is rich in sensory engagement, often in a physical environment.\n\nThese realms help businesses understand how to design experiences that resonate with customers based on their level of participation and the nature of the environment.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": " Which type of research methods are designed to elicit responses to predetermined, standardized questions from many respondents?",
+    "options": [
+      "Non-probability.",
+      "Cross-sectional.",
+      "Qualitative.",
+      "Ethnographic.",
+      "Longitudinal.",
+      "Experimental.",
+      "Probability.",
+      "Observational.",
+      "Case Study.",
+      "Quantitative."
+    ],
+    "response": "The type of research methods designed to elicit responses to predetermined, standardized questions from many respondents is:\n\n**10. Quantitative.**\n\n### Step-by-Step Explanation:\n\n1. **Definition of Quantitative Research**: This method focuses on quantifying data and typically involves structured tools like surveys or questionnaires with closed-ended questions.\n\n2. **Standardized Questions**: Quantitative research uses predetermined questions to ensure consistency across responses, allowing for statistical analysis.\n\n3. **Large Sample Size**: It often involves a larger number of respondents to generalize findings to a broader population.\n\n4. **Data Analysis**: The responses are analyzed using statistical methods, which is a hallmark of quantitative research.\n\n### Other Options:\n\n- **Non-probability**: Refers to sampling methods that do not give all individuals a chance of being selected, not specifically about standardized questions.\n  \n- **Cross-sectional**: A type of study that analyzes data from a population at a specific point in time, but it can be quantitative or qualitative.\n\n- **Qualitative**: Focuses on understanding concepts, thoughts, or experiences, often using open-ended questions.\n\n- **Ethnographic**: Involves in-depth study of people and cultures, typically qualitative.\n\n- **Longitudinal**: Studies the same subjects over a period of time, can be quantitative or qualitative.\n\n- **Experimental**: Involves manipulation of variables to determine cause-and-effect relationships, can include quantitative methods.\n\n- **Probability**: Refers to sampling methods that ensure every individual has a known chance of being selected, not specifically about standardized questions.\n\n- **Observational**: Involves observing subjects in their natural environment without interference, typically qualitative.\n\n- **Case Study**: An in-depth analysis of a single case or a small number of cases, usually qualitative.\n\nThus, the correct answer is **Quantitative** research methods.",
+    "chosen_option": "10",
+    "is_correct": true
+  },
+  {
+    "question": "Where the price is set low relative to the competition to gain market share, this strategy is known as:",
+    "options": [
+      "Captive product pricing.",
+      "High-low pricing.",
+      "Price skimming.",
+      "Value added pricing.",
+      "Penetration pricing.",
+      "Premium pricing.",
+      "Cost-plus pricing.",
+      "Economy pricing.",
+      "Psychological pricing.",
+      "Competitive pricing."
+    ],
+    "response": "The strategy where the price is set low relative to the competition to gain market share is known as:\n\n**5. Penetration pricing.**\n\n### Step-by-step reasoning:\n\n1. **Understanding the goal**: The primary aim is to attract customers and gain market share quickly.\n2. **Price setting**: This involves setting a lower price than competitors to entice customers to try the product.\n3. **Long-term strategy**: Once a significant market share is achieved, the company may gradually increase prices.\n4. **Comparison with other options**:\n   - **Captive product pricing**: Involves pricing a primary product low but charging high for complementary products.\n   - **High-low pricing**: Involves setting high prices but offering discounts periodically.\n   - **Price skimming**: Involves setting high prices initially and lowering them over time.\n   - **Value added pricing**: Focuses on adding features or services to justify a higher price.\n   - **Premium pricing**: Involves setting high prices to reflect quality or exclusivity.\n   - **Cost-plus pricing**: Involves adding a markup to the cost of production.\n   - **Economy pricing**: Involves setting a low price to attract price-sensitive customers, but not necessarily to gain market share aggressively.\n   - **Psychological pricing**: Involves setting prices that have a psychological impact (e.g., $9.99 instead of $10).\n   - **Competitive pricing**: Involves setting prices based on competitors' pricing.\n\nThus, the correct answer is **Penetration pricing**.",
+    "chosen_option": "5",
+    "is_correct": true
+  },
+  {
+    "question": "Once a train pulls out of a station, or an aeroplane takes off or a film starts, those seats are lost and can never be sold. This is referred to as:",
+    "options": [
+      "Immeasurability.",
+      "Impalpability.",
+      "Variability.",
+      "Non-storability.",
+      "Indivisibility.",
+      "Perishability.",
+      "Non-recoverability.",
+      "Inseparability.",
+      "Heterogeneity.",
+      "Intangibility."
+    ],
+    "response": "The concept you're referring to is best described by **6. Perishability**. \n\nHere's the reasoning step by step:\n\n1. **Immeasurability**: This refers to the difficulty in measuring the quality of a service.\n2. **Impalpability**: This means that services cannot be touched or physically possessed.\n3. **Variability**: This indicates that the quality of services can vary from one provider to another or even from one instance to another.\n4. **Non-storability**: This suggests that services cannot be stored for later use, but it doesn't specifically address the loss of seats.\n5. **Indivisibility**: This means that services cannot be divided into parts; they are consumed as a whole.\n6. **Perishability**: This is the correct term, as it refers to the fact that once a service is provided (like a train leaving or a flight taking off), it cannot be sold again.\n7. **Non-recoverability**: This implies that once a service is consumed, it cannot be recovered, but it doesn't specifically address the loss of potential sales.\n8. **Inseparability**: This means that services are produced and consumed simultaneously.\n9. **Heterogeneity**: This refers to the variability in service quality.\n10. **Intangibility**: This means that services cannot be seen or touched.\n\nThus, the best answer is **6. Perishability**.",
+    "chosen_option": "6",
+    "is_correct": true
+  },
+  {
+    "question": "A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm.",
+    "options": [
+      "Data collection firm.",
+      "Freelance agency.",
+      "Data analysis firm.",
+      "Survey firm.",
+      "Full-service agency.",
+      "Tabulation agency.",
+      "Marketing agency.",
+      "Research firm.",
+      "Consultant.",
+      "Field agency."
+    ],
+    "response": "The correct answer is **5. Full-service agency**. \n\nHere's the reasoning step by step:\n\n1. **Data collection firm** - This focuses only on gathering data, not the entire project.\n2. **Freelance agency** - This typically refers to independent contractors, not a firm that handles complete projects.\n3. **Data analysis firm** - This specializes in analyzing data, not conducting the entire research process.\n4. **Survey firm** - This focuses on creating and conducting surveys, not the full scope of marketing research.\n5. **Full-service agency** - This handles all aspects of marketing research, including data collection, analysis, and reporting.\n6. **Tabulation agency** - This focuses on organizing and summarizing data, not the entire research process.\n7. **Marketing agency** - This may offer broader marketing services but doesn't specifically indicate a focus on research.\n8. **Research firm** - This is a general term but doesn't specify that it provides full services.\n9. **Consultant** - This typically provides advice rather than conducting the entire research project.\n10. **Field agency** - This focuses on data collection in the field, not the complete project.\n\nThus, a firm that conducts a complete marketing research project is best described as a **full-service agency**.",
+    "chosen_option": "5",
+    "is_correct": true
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "question": "Polio can be eradicated by which of the following?",
+    "options": [
+      "Herbal remedies",
+      "Use of antibiotics",
+      "Regular intake of vitamins",
+      "Administration of tetanus vaccine",
+      "Attention to sewage control and hygiene",
+      "Natural immunity acquired through exposure",
+      "Use of antiviral drugs"
+    ],
+    "response": "To determine how polio can be eradicated, let's analyze each option step by step:\n\n1. **Herbal remedies**: There is no scientific evidence that herbal remedies can eradicate polio. They may provide some health benefits but are not effective against viral infections like polio.\n\n2. **Use of antibiotics**: Antibiotics are effective against bacterial infections, not viral infections. Polio is caused by a virus, so antibiotics will not help in eradicating it.\n\n3. **Regular intake of vitamins**: While vitamins can support overall health and immune function, they do not specifically target the poliovirus or prevent polio infection.\n\n4. **Administration of tetanus vaccine**: The tetanus vaccine is unrelated to polio. The polio vaccine (either inactivated polio vaccine (IPV) or oral polio vaccine (OPV)) is specifically designed to prevent polio.\n\n5. **Attention to sewage control and hygiene**: Improved sanitation and hygiene can help prevent the spread of polio, especially in areas where the virus is endemic. However, this alone will not eradicate polio without vaccination.\n\n6. **Natural immunity acquired through exposure**: While natural immunity can occur after infection, relying on natural exposure is not a safe or effective strategy for eradication, as it can lead to illness and complications.\n\n7. **Use of antiviral drugs**: Currently, there are no specific antiviral drugs that effectively treat or prevent polio. The primary method of prevention is vaccination.\n\n### Conclusion:\nThe most effective way to eradicate polio is through **vaccination** (not listed in the options). While options 5 (attention to sewage control and hygiene) can help reduce transmission, the key to eradication is widespread vaccination.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "Which disease do polyomaviruses predominantly cause?",
+    "options": [
+      "Tumours",
+      "Brain pathology",
+      "No disease at all",
+      "Kidney infections"
+    ],
+    "response": "Polyomaviruses are primarily associated with causing tumors, particularly in immunocompromised individuals. Here's a step-by-step breakdown:\n\n1. **Tumours**: Polyomaviruses, such as JC virus and BK virus, can lead to tumors in certain contexts, especially in patients with weakened immune systems. For example, the JC virus is linked to progressive multifocal leukoencephalopathy (PML), which can occur in immunocompromised patients.\n\n2. **Brain pathology**: While polyomaviruses can cause brain-related issues, such as PML, this is a specific condition rather than a broad category of disease. \n\n3. **No disease at all**: Many people are infected with polyomaviruses without showing any symptoms or disease, but this does not mean they are predominantly associated with \"no disease.\"\n\n4. **Kidney infections**: BK virus, a type of polyomavirus, is known to cause kidney infections, particularly in transplant patients. However, this is more specific and not the primary association.\n\nGiven this analysis, the best answer is:\n\n**1. Tumours**.",
+    "chosen_option": "1",
+    "is_correct": false
+  },
+  {
+    "question": "Who discovered the first virus?",
+    "options": [
+      "The microscopist Antonie van Leeuwenhoek",
+      "The virologist Jonas Salk",
+      "The physician Edward Jenner",
+      "The microbiologist Louis Pasteur",
+      "The bacteriologist Charles Chamberland",
+      "The biologist Robert Hooke",
+      "The biologist Gregor Mendel",
+      "The geneticist James Watson",
+      "The botanist Dmitri Iwanowsky",
+      "The physicist Albert Einstein"
+    ],
+    "response": "To determine who discovered the first virus, let's analyze the options step by step:\n\n1. **Antonie van Leeuwenhoek** - Known for his work with microscopes and observing microorganisms, but he did not discover viruses.\n  \n2. **Jonas Salk** - Developed the polio vaccine, but did not discover the first virus.\n\n3. **Edward Jenner** - Known for developing the smallpox vaccine, but he worked with bacteria, not viruses.\n\n4. **Louis Pasteur** - Made significant contributions to microbiology and vaccines, but did not discover viruses.\n\n5. **Charles Chamberland** - Created the Chamberland filter, which helped in the study of viruses, but he did not discover the first virus.\n\n6. **Robert Hooke** - Known for his work with cells and microscopy, but he did not discover viruses.\n\n7. **Gregor Mendel** - Known for his work in genetics, but he did not discover viruses.\n\n8. **James Watson** - Known for the discovery of the structure of DNA, but he did not discover viruses.\n\n9. **Dmitri Iwanowsky** - In 1892, he discovered the first virus, the tobacco mosaic virus, by filtering infected plant sap and observing that the filtrate could still cause infection.\n\n10. **Albert Einstein** - Renowned physicist, but he did not discover viruses.\n\nBased on this analysis, the correct answer is **9. Dmitri Iwanowsky**.",
+    "chosen_option": "9",
+    "is_correct": true
+  },
+  {
+    "question": "Poliovirus can most easily become more virulent by which of the following processes?",
+    "options": [
+      "Altering its mode of transmission",
+      "Increasing its replication speed",
+      "Recombining with another enterovirus",
+      "Multiple nucleotide deletions and substitutions",
+      "Developing resistance to antiviral medications",
+      "Mutation of the RNA genome at only a few positions",
+      "Developing a secondary protein coat",
+      "Increasing the complexity of its RNA genome",
+      "Altering its protein coat",
+      "Merging with a bacteriophage"
+    ],
+    "response": "To determine how poliovirus can most easily become more virulent, let's analyze each option step by step:\n\n1. **Altering its mode of transmission**: While this could potentially increase virulence, it doesn't directly enhance the virus's ability to cause disease.\n\n2. **Increasing its replication speed**: Faster replication could lead to more viral particles, but it doesn't necessarily mean increased virulence.\n\n3. **Recombining with another enterovirus**: This could introduce new traits, but it's not a guaranteed way to increase virulence.\n\n4. **Multiple nucleotide deletions and substitutions**: This could lead to loss of function or attenuation rather than increased virulence.\n\n5. **Developing resistance to antiviral medications**: This could help the virus survive in treated populations but doesn't directly increase its virulence.\n\n6. **Mutation of the RNA genome at only a few positions**: This is a common mechanism for viruses to adapt and can lead to increased virulence if the mutations enhance pathogenicity.\n\n7. **Developing a secondary protein coat**: This is not a typical mechanism for increasing virulence in poliovirus.\n\n8. **Increasing the complexity of its RNA genome**: More complexity doesn't necessarily correlate with increased virulence.\n\n9. **Altering its protein coat**: Changes in the protein coat can affect how the virus interacts with host cells and immune responses, potentially increasing virulence.\n\n10. **Merging with a bacteriophage**: This is unlikely for poliovirus, as it is not a bacteriophage and merging would not typically enhance virulence.\n\n### Conclusion:\nThe most straightforward and likely method for poliovirus to become more virulent is **6. Mutation of the RNA genome at only a few positions**. This allows for rapid adaptation and potential enhancement of pathogenicity.",
+    "chosen_option": "6",
+    "is_correct": true
+  },
+  {
+    "question": "How do viruses of the calcivirus family replicate?",
+    "options": [
+      "By integrating their DNA into the host cell's genome",
+      "As negative strand RNA viruses",
+      "Via DNA replication",
+      "As positive strand RNA viruses",
+      "Using genetic reassortment",
+      "Through binary fission",
+      "As single-stranded DNA viruses",
+      "Retroviruses",
+      "As double-stranded RNA viruses",
+      "Through a process called transduction"
+    ],
+    "response": "Viruses of the calicivirus family replicate as **positive strand RNA viruses**. Here’s a step-by-step breakdown of their replication process:\n\n1. **Attachment**: The virus attaches to the host cell's surface receptors.\n2. **Entry**: The virus enters the host cell, typically through endocytosis.\n3. **Uncoating**: The viral capsid is removed, releasing the viral RNA into the host cell's cytoplasm.\n4. **Translation**: The host's ribosomes translate the viral RNA into viral proteins.\n5. **Replication**: The viral RNA serves as a template for replication, producing additional RNA genomes.\n6. **Assembly**: New viral proteins and RNA genomes are assembled into new virions.\n7. **Budding**: The new virions are released from the host cell, often through exocytosis, to infect new cells.\n\nSo, the correct answer is **4. As positive strand RNA viruses**.",
+    "chosen_option": "4",
+    "is_correct": true
+  },
+  {
+    "question": "Viruses have encouraged us to change our world, as we have now:",
+    "options": [
+      "Developed a universal vaccine for all types of flu",
+      "Eradicated polio",
+      "Created a vaccine for the common cold",
+      "Found a cure for all types of cancer",
+      "Eradicated smallpox",
+      "Completely stopped the spread of all infectious diseases",
+      "Developed immunity to all types of viruses",
+      "Eradicated HIV/AIDS"
+    ],
+    "response": "The impact of viruses on our world has indeed prompted significant advancements in medicine and public health. Here’s a step-by-step breakdown of how these developments could unfold:\n\n1. **Developed a universal vaccine for all types of flu**: Research into the flu virus has led to the creation of a vaccine that provides broad protection against various strains, reducing seasonal outbreaks and hospitalizations.\n\n2. **Eradicated polio**: Global vaccination campaigns have successfully eliminated polio in many regions, leading to a world where the disease is no longer a threat to children.\n\n3. **Created a vaccine for the common cold**: Advances in virology have allowed scientists to develop a vaccine targeting the most common cold viruses, significantly reducing the incidence of this widespread illness.\n\n4. **Found a cure for all types of cancer**: Breakthroughs in genetic research and immunotherapy have led to the development of treatments that can effectively target and eliminate cancer cells, making cancer a manageable condition.\n\n5. **Eradicated smallpox**: The successful global vaccination campaign against smallpox has led to its complete eradication, serving as a model for future vaccination efforts.\n\n6. **Completely stopped the spread of all infectious diseases**: Through a combination of vaccines, public health initiatives, and advanced treatments, the world has managed to control and eliminate the spread of infectious diseases.\n\n7. **Developed immunity to all types of viruses**: Ongoing research has led to the development of therapies that enhance the immune system's ability to recognize and fight off various viruses, providing long-lasting immunity.\n\n8. **Eradicated HIV/AIDS**: Advances in antiretroviral therapy and preventive measures have led to the complete eradication of HIV/AIDS, allowing those affected to live healthy lives without the virus.\n\nThese steps illustrate a future where the impact of viruses has led to transformative changes in healthcare, ultimately improving global health and quality of life.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "Which of the following releases most energy when completely oxidised in the body?",
+    "options": [
+      "One gram of glycerol",
+      "One gram of lactose",
+      "One gram of fructose",
+      "One gram of palmitic acid",
+      "One gram of cellulose",
+      "One gram of glucose",
+      "One gram of alcohol",
+      "One gram of leucine"
+    ],
+    "response": "To determine which substance releases the most energy when completely oxidized in the body, we can analyze the energy content of each option based on their chemical structure and typical energy yields.\n\n1. **Glycerol**: Glycerol is a simple sugar alcohol and yields about 4.3 kcal/g when oxidized.\n\n2. **Lactose**: Lactose is a disaccharide (glucose + galactose) and yields about 4 kcal/g.\n\n3. **Fructose**: Fructose is a monosaccharide and yields about 4 kcal/g.\n\n4. **Palmitic acid**: Palmitic acid is a saturated fatty acid. Fatty acids generally yield more energy than carbohydrates. Palmitic acid yields about 9.3 kcal/g.\n\n5. **Cellulose**: Cellulose is a polysaccharide made of glucose units, but humans cannot digest it effectively. Therefore, it yields negligible energy.\n\n6. **Glucose**: Glucose is a monosaccharide and yields about 4 kcal/g.\n\n7. **Alcohol**: Ethanol (the type of alcohol in beverages) yields about 7 kcal/g.\n\n8. **Leucine**: Leucine is an amino acid and yields about 4 kcal/g.\n\n### Summary of Energy Yields:\n- Glycerol: ~4.3 kcal/g\n- Lactose: ~4 kcal/g\n- Fructose: ~4 kcal/g\n- Palmitic acid: ~9.3 kcal/g\n- Cellulose: negligible\n- Glucose: ~4 kcal/g\n- Alcohol: ~7 kcal/g\n- Leucine: ~4 kcal/g\n\n### Conclusion:\n**Palmitic acid** (4) releases the most energy when completely oxidized in the body, yielding approximately 9.3 kcal/g.",
+    "chosen_option": "4",
+    "is_correct": true
+  },
+  {
+    "question": "Using this formula, if a reaction was provided with 84g of ethane and unlimited oxygen, how many grams of carbon dioxide would result (Carbon atomic weight: 12amu, Hydrogen atomic weight: 1amu, Oxygen atomic weight: 16amu)?\n﻿\nThe unbalanced reaction of ethane gas to carbon dioxide and water is as follows:\n\n C2H4 + O2 —> CO2 + H2O",
+    "options": [
+      "78g",
+      "210g",
+      "312g",
+      "528g",
+      "156g",
+      "44g",
+      "264g",
+      "180g",
+      "132g",
+      "396g"
+    ],
+    "response": "To determine how many grams of carbon dioxide (CO₂) will be produced from 84g of ethane (C₂H₆), we first need to balance the chemical equation for the combustion of ethane:\n\n### Step 1: Write the unbalanced equation\n\\[ \\text{C}_2\\text{H}_6 + \\text{O}_2 \\rightarrow \\text{CO}_2 + \\text{H}_2\\text{O} \\]\n\n### Step 2: Balance the equation\n1. **Carbon atoms**: There are 2 carbon atoms in ethane, so we need 2 CO₂.\n2. **Hydrogen atoms**: There are 6 hydrogen atoms in ethane, so we need 3 H₂O.\n3. **Oxygen atoms**: Now we count the oxygen atoms:\n   - From 2 CO₂: \\(2 \\times 2 = 4\\) oxygen atoms\n   - From 3 H₂O: \\(3 \\times 1 = 3\\) oxygen atoms\n   - Total oxygen needed: \\(4 + 3 = 7\\) oxygen atoms, which means we need \\( \\frac{7}{2} \\) O₂ or 3.5 O₂.\n\nThe balanced equation is:\n\\[ \\text{C}_2\\text{H}_6 + \\frac{7}{2} \\text{O}_2 \\rightarrow 2 \\text{CO}_2 + 3 \\text{H}_2\\text{O} \\]\n\nTo avoid fractions, we can multiply the entire equation by 2:\n\\[ 2 \\text{C}_2\\text{H}_6 + 7 \\text{O}_2 \\rightarrow 4 \\text{CO}_2 + 6 \\text{H}_2\\text{O} \\]\n\n### Step 3: Calculate the molar mass of ethane (C₂H₆)\n- Carbon: \\(2 \\times 12 = 24 \\, \\text{g/mol}\\)\n- Hydrogen: \\(6 \\times 1 = 6 \\, \\text{g/mol}\\)\n- Total: \\(24 + 6 = 30 \\, \\text{g/mol}\\)\n\n### Step 4: Calculate moles of ethane in 84g\n\\[\n\\text{Moles of C}_2\\text{H}_6 = \\frac{84 \\, \\text{g}}{30 \\, \\text{g/mol}} = 2.8 \\, \\text{mol}\n\\]\n\n### Step 5: Use the balanced equation to find moles of CO₂ produced\nFrom the balanced equation, 2 moles of C₂H₆ produce 4 moles of CO₂. Therefore, 1 mole of C₂H₆ produces 2 moles of CO₂.\n\n\\[\n\\text{Moles of CO}_2 = 2.8 \\, \\text{mol C}_2\\text{H}_6 \\times 2 = 5.6 \\, \\text{mol CO}_2\n\\]\n\n### Step 6: Calculate the molar mass of CO₂\n- Carbon: \\(1 \\times 12 = 12 \\, \\text{g/mol}\\)\n- Oxygen: \\(2 \\times 16 = 32 \\, \\text{g/mol}\\)\n- Total: \\(12 + 32 = 44 \\, \\text{g/mol}\\)\n\n### Step 7: Calculate grams of CO₂ produced\n\\[\n\\text{Grams of CO}_2 = 5.6 \\, \\text{mol} \\times 44 \\, \\text{g/mol} = 246.4 \\, \\text{g}\n\\]\n\n### Conclusion\nThe closest answer from the options provided is **264g**.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  },
+  {
+    "question": "An action potential arriving at the motor endplate causes release of:",
+    "options": [
+      "adrenaline which speeds up muscle metabolism.",
+      "noradrenaline which increases muscle metabolic activity.",
+      "sodium ions which binds to sodium receptors on the muscle membrane.",
+      "acetylcholine which traverses the neuromuscular junction.",
+      "acetylcholine which is broken down by acetylcholinesterase in the synaptic cleft.",
+      "calcium ions which initiate an action potential along the muscle fibre.",
+      "dopamine which initiates muscle contraction.",
+      "serotonin which reduces muscle excitability.",
+      "potassium ions which hyperpolarize the muscle membrane.",
+      "glutamate which acts as a neurotransmitter at the neuromuscular junction."
+    ],
+    "response": "When an action potential arrives at the motor endplate, the correct sequence of events involves the release of:\n\n1. **Acetylcholine (ACh)** - The action potential triggers the release of acetylcholine from the presynaptic terminal into the synaptic cleft at the neuromuscular junction.\n\n2. **Binding to receptors** - Acetylcholine binds to nicotinic receptors on the muscle membrane (sarcolemma), leading to an influx of sodium ions.\n\n3. **Depolarization** - The influx of sodium ions causes depolarization of the muscle membrane, which can initiate an action potential in the muscle fiber.\n\n4. **Calcium ions** - The action potential travels along the muscle fiber and triggers the release of calcium ions from the sarcoplasmic reticulum, which is essential for muscle contraction.\n\n5. **Acetylcholinesterase** - After the action potential, acetylcholine is broken down by acetylcholinesterase in the synaptic cleft, terminating the signal.\n\nSo, the primary neurotransmitter released at the motor endplate is **acetylcholine (option 4)**, which is crucial for muscle contraction.",
+    "chosen_option": "4",
+    "is_correct": true
+  },
+  {
+    "question": "Which of the following is not an abnormal breathing pattern seen in head injury and altered conscious level?",
+    "options": [
+      "Hyperventilation.",
+      "Anaerobic respiration.",
+      "Biot's respiration.",
+      "Agonal breathing.",
+      "Central neurogenic hyperventilation.",
+      "Ataxic breathing.",
+      "Cheyne-Stokes respiration.",
+      "Apneustic breathing.",
+      "Kussmaul's respiration.",
+      "Periodic breathing."
+    ],
+    "response": "To determine which of the listed options is not an abnormal breathing pattern associated with head injury and altered consciousness, let's analyze each option step by step:\n\n1. **Hyperventilation**: This is an increased rate and depth of breathing, often seen in response to anxiety or metabolic acidosis, and can occur in head injuries.\n\n2. **Anaerobic respiration**: This is a metabolic process that occurs in cells when oxygen is not available. It is not a breathing pattern but rather a cellular process, so it does not fit the context of abnormal breathing patterns.\n\n3. **Biot's respiration**: This is characterized by groups of quick, shallow inspirations followed by regular or irregular periods of apnea, often seen in brain damage.\n\n4. **Agonal breathing**: This is a gasping, labored breathing pattern that can occur in the dying process or severe brain injury.\n\n5. **Central neurogenic hyperventilation**: This is a rapid, deep breathing pattern that can occur due to brainstem injury.\n\n6. **Ataxic breathing**: This is an irregular and unpredictable breathing pattern, often associated with severe brain injury.\n\n7. **Cheyne-Stokes respiration**: This is a cyclical pattern of breathing with periods of apnea, often seen in patients with severe brain injury or heart failure.\n\n8. **Apneustic breathing**: This is characterized by prolonged inspiratory phases followed by short expiratory phases, often associated with brainstem lesions.\n\n9. **Kussmaul's respiration**: This is a deep, labored breathing pattern typically associated with metabolic acidosis, particularly diabetic ketoacidosis.\n\n10. **Periodic breathing**: This refers to alternating periods of hyperventilation and apnea, which can be seen in various conditions, including brain injury.\n\nBased on this analysis, the option that is **not** an abnormal breathing pattern is:\n\n**2. Anaerobic respiration**. \n\nThis is a metabolic process, not a breathing pattern.",
+    "chosen_option": "2",
+    "is_correct": true
+  },
+  {
+    "question": "Removal of adhesive strips:",
+    "options": [
+      "should be undertaken under aseptic conditions.",
+      "can be carried out by the patient.",
+      "should not be undertaken until at least seven days after application.",
+      "can be performed immediately after application.",
+      "should not be undertaken until at least ten days after application.",
+      "requires specific equipment.",
+      "should be done in a sterile environment.",
+      "is a specialist skill."
+    ],
+    "response": "When considering the removal of adhesive strips, here’s a step-by-step breakdown based on the provided points:\n\n1. **Aseptic Conditions**: Ensure that the removal is done under aseptic conditions to prevent infection.\n   \n2. **Patient Involvement**: The patient can carry out the removal if they are instructed properly and feel comfortable doing so.\n\n3. **Timing**: The removal should not be undertaken until at least seven days after application to allow for proper healing. (Note: If the adhesive strips are meant to stay longer, refer to point 5.)\n\n4. **Immediate Removal**: This is generally not recommended unless specified by a healthcare professional.\n\n5. **Ten-Day Rule**: If the adhesive strips are designed to stay on for at least ten days, then removal should be postponed until that time.\n\n6. **Equipment**: Specific equipment may be required for safe removal, such as sterile scissors or adhesive removers.\n\n7. **Sterile Environment**: Ideally, the removal should be done in a sterile environment to minimize the risk of infection.\n\n8. **Specialist Skill**: If the removal is complex or if there are concerns about the underlying wound, it may require a specialist skill.\n\n### Summary Steps for Removal:\n- Ensure aseptic conditions.\n- Confirm the appropriate timing (7-10 days post-application).\n- Use necessary equipment.\n- Consider the environment (sterile).\n- If unsure, consult a healthcare professional for assistance.",
+    "chosen_option": "not sure yet",
+    "is_correct": "-"
+  }
+]

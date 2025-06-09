@@ -1,0 +1,179 @@
+[
+  {
+    "question": "Which of the following would most likely provide examples of mitotic cell divisions?",
+    "options": [
+      "cross section of muscle tissue",
+      "longitudinal section of a shoot tip",
+      "longitudinal section of a leaf vein",
+      "cross section of a fruit",
+      "cross section of a leaf",
+      "longitudinal section of a petal",
+      "longitudinal section of a seed",
+      "cross section of an anther (site of pollen production in a flower)"
+    ],
+    "response": "To determine which of the options would most likely provide examples of mitotic cell divisions, we need to consider where active cell division typically occurs in plants. Mitotic cell division is crucial for growth and development, particularly in areas where new cells are being produced.\n\nLet's analyze each option step by step:\n\n1. **Cross section of muscle tissue**: Muscle tissue is not plant tissue, and while it does undergo mitosis, it is not relevant to this context.\n\n2. **Longitudinal section of a shoot tip**: The shoot tip is a region of active growth (apical meristem) where mitotic divisions occur to produce new cells for growth. **This is likely to show mitotic divisions.**\n\n3. **Longitudinal section of a leaf vein**: Leaf veins contain vascular tissue, which is not primarily a site of active cell division. **Less likely to show mitotic divisions.**\n\n4. **Cross section of a fruit**: Fruits develop from fertilized ovules and may show some cell division, but they are not primarily sites of active mitosis. **Less likely to show mitotic divisions.**\n\n5. **Cross section of a leaf**: Leaves are primarily involved in photosynthesis and do not have significant areas of active cell division. **Less likely to show mitotic divisions.**\n\n6. **Longitudinal section of a petal**: Petals are part of the flower structure and may not show active mitotic divisions as they are more differentiated tissues. **Less likely to show mitotic divisions.**\n\n7. **Longitudinal section of a seed**: Seeds contain embryonic tissues that may undergo some cell division during development, but they are not primarily sites of active mitosis. **Less likely to show mitotic divisions.**\n\n8. **Cross section of an anther (site of pollen production in a flower)**: The anther contains pollen mother cells that undergo meiosis to produce pollen grains, but it may also show some mitotic activity in surrounding tissues. **Possible, but not primarily focused on mitosis.**\n\n### Conclusion:\nThe **longitudinal section of a shoot tip (option 2)** is the most likely to provide examples of mitotic cell divisions, as it is a region of active growth in plants.",
+    "chosen_option": "2",
+    "is_correct": true
+  },
+  {
+    "question": "The light reactions of photosynthesis supply the Calvin cycle with which of the following?",
+    "options": [
+      "CO2 released by the light-dependent reactions provides the raw material for the Calvin cycle.",
+      "The light reactions provide oxygen for the light-independent reactions.",
+      "Water entering the plant through the roots provides hydrogen directly to the Calvin cycle.",
+      "ATP and NADPH provide the power and raw materials for the Calvin cycle.",
+      "The light reactions provide nitrogen to the Calvin cycle for protein synthesis.",
+      "Glucose and fructose are supplied to the Calvin cycle by the light reactions.",
+      "The light reactions supply the Calvin cycle with sunlight directly.",
+      "ATP and NADPH are broken down in the light reactions to supply the Calvin cycle with energy.",
+      "The light reactions provide carbon dioxide for the light-independent reactions.",
+      "The light reactions supply the Calvin cycle with water and oxygen."
+    ],
+    "response": "To determine what the light reactions of photosynthesis supply to the Calvin cycle, let's analyze each statement step by step:\n\n1. **CO2 released by the light-dependent reactions provides the raw material for the Calvin cycle.**  \n   - **False.** CO2 is not released by the light reactions; it is taken in from the atmosphere for the Calvin cycle.\n\n2. **The light reactions provide oxygen for the light-independent reactions.**  \n   - **True, but not directly relevant.** The light reactions produce oxygen as a byproduct, but the Calvin cycle does not use oxygen.\n\n3. **Water entering the plant through the roots provides hydrogen directly to the Calvin cycle.**  \n   - **False.** While water is split in the light reactions to provide electrons and protons, it does not directly supply hydrogen to the Calvin cycle.\n\n4. **ATP and NADPH provide the power and raw materials for the Calvin cycle.**  \n   - **True.** The light reactions generate ATP and NADPH, which are essential for the Calvin cycle to synthesize glucose.\n\n5. **The light reactions provide nitrogen to the Calvin cycle for protein synthesis.**  \n   - **False.** Nitrogen is not supplied by the light reactions; it is obtained from the soil.\n\n6. **Glucose and fructose are supplied to the Calvin cycle by the light reactions.**  \n   - **False.** The Calvin cycle produces glucose and fructose, but they are not supplied by the light reactions.\n\n7. **The light reactions supply the Calvin cycle with sunlight directly.**  \n   - **False.** Sunlight is used in the light reactions, not supplied to the Calvin cycle.\n\n8. **ATP and NADPH are broken down in the light reactions to supply the Calvin cycle with energy.**  \n   - **False.** ATP and NADPH are produced in the light reactions and then used in the Calvin cycle.\n\n9. **The light reactions provide carbon dioxide for the light-independent reactions.**  \n   - **False.** Carbon dioxide is taken from the atmosphere, not provided by the light reactions.\n\n10. **The light reactions supply the Calvin cycle with water and oxygen.**  \n    - **False.** While the light reactions produce oxygen, they do not supply water to the Calvin cycle.\n\n### Conclusion:\nThe correct statement is **4. ATP and NADPH provide the power and raw materials for the Calvin cycle.**",
+    "chosen_option": "4",
+    "is_correct": true
+  },
+  {
+    "question": "In minks, the gene for brown fur (B) is dominant over the gene for silver fur (b). Which set of genotypes represents a cross that could produce offspring with silver fur from parents that both have brown fur?",
+    "options": [
+      "bb bb",
+      "Bb BB",
+      "Bb Bb",
+      "Bb bb",
+      "BB Bb",
+      "bb Bb",
+      "BB BB",
+      "Bb Bb Bb",
+      "BB bb"
+    ],
+    "response": "To determine which set of genotypes can produce offspring with silver fur (bb) from parents that both have brown fur (B), we need to consider the following:\n\n1. **Understanding the Genotypes**:\n   - Brown fur (B) is dominant.\n   - Silver fur (b) is recessive.\n   - To have silver fur (bb), an offspring must inherit two recessive alleles (b) from its parents.\n\n2. **Identifying Possible Parent Genotypes**:\n   - Since both parents have brown fur, they can either be homozygous dominant (BB) or heterozygous (Bb).\n   - Only the heterozygous (Bb) genotype can contribute a recessive allele (b) to the offspring.\n\n3. **Crossing Genotypes**:\n   - If both parents are Bb, the possible offspring genotypes from this cross would be:\n     - BB (25%)\n     - Bb (50%)\n     - bb (25%)\n   - This means that a cross of Bb x Bb can produce silver-furred offspring (bb).\n\n4. **Evaluating the Options**:\n   - **1. bb bb**: Not possible, as both parents must have brown fur.\n   - **2. Bb BB**: Cannot produce bb offspring.\n   - **3. Bb Bb**: Can produce bb offspring.\n   - **4. Bb bb**: Not possible, as one parent must have brown fur.\n   - **5. BB Bb**: Cannot produce bb offspring.\n   - **6. bb Bb**: Not possible, as one parent must have brown fur.\n   - **7. BB BB**: Cannot produce bb offspring.\n   - **8. Bb Bb Bb**: Not a valid genotype for a cross.\n   - **9. BB bb**: Not possible, as one parent must have brown fur.\n\n**Conclusion**: The correct answer is **3. Bb Bb**. This cross can produce offspring with silver fur (bb).",
+    "chosen_option": "3",
+    "is_correct": true
+  },
+  {
+    "question": "In reference to a segment of DNA, which of the following molecules contains the fewest number of nucleotides?",
+    "options": [
+      "the tRNA transcript from the original DNA",
+      "a single strand of the original DNA segment after a substitution mutation",
+      "the final processed mRNA made from the original DNA",
+      "the primary RNA transcript (after splicing) from the original DNA",
+      "a single strand of the original DNA segment after a duplication mutation",
+      "the primary RNA transcript (before splicing) from the original DNA",
+      "a single strand of the original DNA segment after a deletion mutation",
+      "a single strand of the original DNA segment",
+      "a single strand of complementary DNA (cDNA) made from the original DNA",
+      "a single strand of the original DNA segment after a point mutation"
+    ],
+    "response": "To determine which of the listed molecules contains the fewest number of nucleotides, let's analyze each option step by step:\n\n1. **tRNA transcript from the original DNA**: tRNA molecules are relatively short, typically around 76-90 nucleotides long, but they are still longer than some other options.\n\n2. **Single strand of the original DNA segment after a substitution mutation**: A substitution mutation does not change the length of the DNA strand; it only changes one nucleotide for another. Therefore, it has the same number of nucleotides as the original DNA segment.\n\n3. **Final processed mRNA made from the original DNA**: The final mRNA is typically longer than tRNA because it includes exons and may have a poly-A tail. It usually contains more nucleotides than tRNA.\n\n4. **Primary RNA transcript (after splicing) from the original DNA**: After splicing, the primary RNA transcript will have fewer nucleotides than the initial primary RNA transcript (before splicing) but still more than tRNA.\n\n5. **Single strand of the original DNA segment after a duplication mutation**: A duplication mutation increases the number of nucleotides because it duplicates a segment of DNA.\n\n6. **Primary RNA transcript (before splicing) from the original DNA**: This transcript includes both introns and exons, making it longer than the final processed mRNA.\n\n7. **Single strand of the original DNA segment after a deletion mutation**: A deletion mutation reduces the number of nucleotides, so this strand will have fewer nucleotides than the original DNA segment.\n\n8. **Single strand of the original DNA segment**: This is the baseline for comparison, containing the original number of nucleotides.\n\n9. **Single strand of complementary DNA (cDNA) made from the original DNA**: cDNA is synthesized from mRNA and will have the same number of nucleotides as the mRNA, which is typically longer than tRNA.\n\n10. **Single strand of the original DNA segment after a point mutation**: Similar to the substitution mutation, a point mutation does not change the length of the DNA strand.\n\n### Conclusion:\nThe molecule with the fewest number of nucleotides is likely **7. a single strand of the original DNA segment after a deletion mutation**, as it reduces the number of nucleotides compared to the original DNA segment.",
+    "chosen_option": "7",
+    "is_correct": false
+  },
+  {
+    "question": "Which group is composed entirely of individuals who maintained that species are fixed (i.e., unchanging)?",
+    "options": [
+      "Aristotle, Darwin, and Lamarck",
+      "Aristotle, Lyell, and Darwin",
+      "Aristotle, Linnaeus, and Cuvier",
+      "Aristotle, Cuvier, and Lamarck",
+      "Linnaeus, Darwin, and Lamarck",
+      "Linnaeus, Cuvier, and Lamarck",
+      "Darwin, Cuvier, and Lamarck",
+      "Lyell, Cuvier, and Darwin",
+      "Lyell, Linnaeus, and Lamarck",
+      "Lyell, Lamarck, and Darwin"
+    ],
+    "response": "To determine which group is composed entirely of individuals who maintained that species are fixed (i.e., unchanging), let's analyze the views of each individual mentioned in the options:\n\n1. **Aristotle**: Believed in the fixity of species; he thought that species were unchanging and created in their current forms.\n  \n2. **Darwin**: Proposed the theory of evolution through natural selection, which implies that species can change over time.\n\n3. **Lamarck**: Suggested that species could change over time through the inheritance of acquired characteristics, which means he did not believe in the fixity of species.\n\n4. **Linnaeus**: Developed a classification system for organisms and believed in the fixity of species.\n\n5. **Cuvier**: Advocated for catastrophism and believed that species were created and did not change over time.\n\nNow, let's evaluate the groups:\n\n1. **Aristotle, Darwin, and Lamarck**: Includes Darwin (not fixed).\n2. **Aristotle, Lyell, and Darwin**: Includes Darwin (not fixed).\n3. **Aristotle, Linnaeus, and Cuvier**: All believed in fixity.\n4. **Aristotle, Cuvier, and Lamarck**: Includes Lamarck (not fixed).\n5. **Linnaeus, Darwin, and Lamarck**: Includes Darwin and Lamarck (not fixed).\n6. **Linnaeus, Cuvier, and Lamarck**: Includes Lamarck (not fixed).\n7. **Darwin, Cuvier, and Lamarck**: Includes Darwin and Lamarck (not fixed).\n8. **Lyell, Cuvier, and Darwin**: Includes Darwin (not fixed).\n9. **Lyell, Linnaeus, and Lamarck**: Includes Lamarck (not fixed).\n10. **Lyell, Lamarck, and Darwin**: Includes Darwin and Lamarck (not fixed).\n\nThe only group composed entirely of individuals who maintained that species are fixed is:\n\n**3. Aristotle, Linnaeus, and Cuvier.**",
+    "chosen_option": "3",
+    "is_correct": true
+  },
+  {
+    "question": "Which of the following statements is NOT correct about apoptosis?",
+    "options": [
+      "Apoptosis, a special type of cell division, requires multiple cell signaling.",
+      "The fact that apoptosis is widespread across several kingdoms is evidence that it evolved early in the evolution of eukaryotes.",
+      "Apoptosis plays a crucial role in the development of fingers in embryonic development.",
+      "Apoptosis prevents an aging and dying cell from damaging neighboring cells."
+    ],
+    "response": "Let's analyze each statement step by step to identify which one is NOT correct about apoptosis:\n\n1. **Apoptosis, a special type of cell division, requires multiple cell signaling.**\n   - This statement is incorrect. Apoptosis is not a type of cell division; it is a process of programmed cell death. While it does involve signaling pathways, it is not classified as cell division.\n\n2. **The fact that apoptosis is widespread across several kingdoms is evidence that it evolved early in the evolution of eukaryotes.**\n   - This statement is correct. The presence of apoptosis in various eukaryotic organisms suggests that it is an ancient and conserved mechanism.\n\n3. **Apoptosis plays a crucial role in the development of fingers in embryonic development.**\n   - This statement is correct. Apoptosis is essential for the separation of fingers and toes during embryonic development by removing the cells in the webbing.\n\n4. **Apoptosis prevents an aging and dying cell from damaging neighboring cells.**\n   - This statement is correct. One of the key functions of apoptosis is to safely eliminate damaged or unnecessary cells without causing inflammation or harm to surrounding cells.\n\nBased on this analysis, the statement that is NOT correct about apoptosis is:\n\n**1. Apoptosis, a special type of cell division, requires multiple cell signaling.**",
+    "chosen_option": "1",
+    "is_correct": true
+  },
+  {
+    "question": "The theory of evolution is most accurately described as",
+    "options": [
+      "a universally accepted fact about the origin and development of all species.",
+      "a hypothesis in the process of being tested and verified.",
+      "a disproven theory about the development of species over time.",
+      "a speculation about possible changes in populations over time.",
+      "an opinion that some scientists hold about how living things change over time.",
+      "an overarching explanation, supported by much evidence, for how populations change over time.",
+      "one possible explanation, among several scientific alternatives, about how species have come into existence.",
+      "an educated guess about how species originate.",
+      "an assumption based on observations of a few species.",
+      "a religious belief about the origin of species."
+    ],
+    "response": "The theory of evolution is most accurately described as:\n\n**6. an overarching explanation, supported by much evidence, for how populations change over time.**\n\nThis option reflects the scientific consensus that evolution is a well-supported framework explaining the diversity of life on Earth, based on extensive evidence from various fields such as genetics, paleontology, and comparative anatomy.",
+    "chosen_option": "6",
+    "is_correct": true
+  },
+  {
+    "question": "The principle inorganic compound found in living things is",
+    "options": [
+      "oxygen",
+      "calcium",
+      "carbon",
+      "potassium",
+      "phosphorus",
+      "water",
+      "sulfur",
+      "hydrogen",
+      "nitrogen",
+      "glucose"
+    ],
+    "response": "To determine the principal inorganic compound found in living things, let's analyze the options step by step:\n\n1. **Oxygen**: Essential for respiration and a component of water, but not an inorganic compound by itself.\n  \n2. **Calcium**: Important for bones and cellular functions, but not the primary inorganic compound.\n\n3. **Carbon**: A fundamental element in organic compounds, but not inorganic.\n\n4. **Potassium**: Vital for cellular functions, but not the main inorganic compound.\n\n5. **Phosphorus**: Important for energy transfer (ATP) and nucleic acids, but not the primary inorganic compound.\n\n6. **Water**: The most abundant inorganic compound in living organisms, crucial for life processes.\n\n7. **Sulfur**: Important for certain amino acids and proteins, but not the primary inorganic compound.\n\n8. **Hydrogen**: A component of water and organic molecules, but not an inorganic compound by itself.\n\n9. **Nitrogen**: Essential for amino acids and nucleic acids, but not the primary inorganic compound.\n\n10. **Glucose**: An organic compound and a primary energy source, but not inorganic.\n\n### Conclusion:\nThe principal inorganic compound found in living things is **water**.",
+    "chosen_option": "6",
+    "is_correct": true
+  },
+  {
+    "question": "If two modern organisms are distantly related in an evolutionary sense, then one should expect that",
+    "options": [
+      "their rate of mutation should be identical.",
+      "they should have the exact same DNA structure.",
+      "they should have identical physical characteristics.",
+      "they should share the same number of chromosomes.",
+      "they live in very different habitats.",
+      "their chromosomes should be very similar.",
+      "they shared a common ancestor relatively recently.",
+      "they should share fewer homologous structures than two more closely related organisms.",
+      "they should share more homologous structures than two more closely related organisms.",
+      "they both evolve at the same rate."
+    ],
+    "response": "To analyze the expectations for two distantly related modern organisms in an evolutionary context, let's go through each statement step by step:\n\n1. **Their rate of mutation should be identical.**  \n   - **False.** Different organisms can have different mutation rates due to various factors, including environmental influences and biological mechanisms.\n\n2. **They should have the exact same DNA structure.**  \n   - **False.** Distantly related organisms will have significant differences in their DNA structure due to the long time since they diverged from a common ancestor.\n\n3. **They should have identical physical characteristics.**  \n   - **False.** Distantly related organisms are likely to exhibit a wide variety of physical characteristics due to different evolutionary pressures.\n\n4. **They should share the same number of chromosomes.**  \n   - **False.** Different species can have different numbers of chromosomes, and this is not necessarily related to their evolutionary relationship.\n\n5. **They live in very different habitats.**  \n   - **True.** Distantly related organisms may occupy different ecological niches and habitats, leading to divergent evolutionary paths.\n\n6. **Their chromosomes should be very similar.**  \n   - **False.** While some chromosomal similarities may exist, significant differences are expected due to the long evolutionary time since divergence.\n\n7. **They shared a common ancestor relatively recently.**  \n   - **False.** Distantly related organisms share a common ancestor that lived a long time ago, leading to significant evolutionary divergence.\n\n8. **They should share fewer homologous structures than two more closely related organisms.**  \n   - **True.** Distantly related organisms are expected to share fewer homologous structures compared to closely related organisms, as homologous structures indicate a more recent common ancestry.\n\n9. **They should share more homologous structures than two more closely related organisms.**  \n   - **False.** This statement contradicts the expectation that closely related organisms share more homologous structures due to their recent common ancestry.\n\n10. **They both evolve at the same rate.**  \n    - **False.** Different organisms can evolve at different rates due to various factors, including environmental pressures and genetic factors.\n\n### Summary:\nFor two distantly related organisms, we expect them to have significant differences in DNA structure, mutation rates, physical characteristics, and chromosomal similarities. They may occupy different habitats and share fewer homologous structures compared to closely related organisms.",
+    "chosen_option": "5",
+    "is_correct": false
+  },
+  {
+    "question": "Which of the following statements is not correct about lipids?",
+    "options": [
+      "Lipids consist of fatty acids and glycerol.",
+      "Steroids are examples of lipids.",
+      "The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature.",
+      "The head of a phospholipid is hydrophobic, and the tails are hydrophilic."
+    ],
+    "response": "Let's analyze each statement step by step to identify which one is not correct:\n\n1. **Lipids consist of fatty acids and glycerol.**\n   - This statement is generally true for triglycerides, which are a type of lipid. However, not all lipids consist of fatty acids and glycerol (e.g., steroids do not). But for the context of triglycerides, this statement is correct.\n\n2. **Steroids are examples of lipids.**\n   - This statement is correct. Steroids, such as cholesterol, are indeed classified as lipids.\n\n3. **The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature.**\n   - This statement is also correct. Saturated fatty acids have no double bonds between carbon atoms, allowing them to pack tightly and typically exist as solids at room temperature.\n\n4. **The head of a phospholipid is hydrophobic, and the tails are hydrophilic.**\n   - This statement is incorrect. In a phospholipid, the head is hydrophilic (water-attracting), while the tails are hydrophobic (water-repelling).\n\nBased on this analysis, the statement that is not correct is:\n\n**4. The head of a phospholipid is hydrophobic, and the tails are hydrophilic.**",
+    "chosen_option": "4",
+    "is_correct": true
+  },
+  {
+    "question": "Which of the following statements about the immune system is NOT correct?",
+    "options": [
+      "Innate immunity, also known as the adaptive immune response, relies on circulating phagocytes engulfing foreign substances.",
+      "Adaptive immunity is a slower response than innate immunity.",
+      "Innate immunity activates a humoral response.",
+      "Dendritic cells are antigen presenting cells."
+    ],
+    "response": "Let's analyze each statement step by step:\n\n1. **Innate immunity, also known as the adaptive immune response, relies on circulating phagocytes engulfing foreign substances.**\n   - This statement is incorrect because innate immunity and adaptive immunity are two distinct components of the immune system. Innate immunity is the first line of defense and includes phagocytes, while adaptive immunity involves a more specific response and includes T and B cells. Therefore, calling innate immunity \"the adaptive immune response\" is incorrect.\n\n2. **Adaptive immunity is a slower response than innate immunity.**\n   - This statement is correct. Adaptive immunity takes longer to develop because it involves the activation and proliferation of specific lymphocytes (T and B cells) in response to an antigen.\n\n3. **Innate immunity activates a humoral response.**\n   - This statement is incorrect. The humoral response is part of the adaptive immune system and involves the production of antibodies by B cells. Innate immunity does not activate a humoral response.\n\n4. **Dendritic cells are antigen presenting cells.**\n   - This statement is correct. Dendritic cells play a crucial role in the immune system by processing and presenting antigens to T cells, thus linking innate and adaptive immunity.\n\n### Conclusion:\nThe statements that are NOT correct are 1 and 3. However, if you need to choose just one, the first statement is the most fundamentally incorrect because it mislabels innate immunity as adaptive immunity.",
+    "chosen_option": "1",
+    "is_correct": true
+  }
+]

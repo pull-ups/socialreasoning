@@ -1,0 +1,193 @@
+[
+  {
+    "question": "An unknown substance is found to have a high melting point. In addition, it is a poor conductor of electricity and does not dissolve in water. The substance most likely contains",
+    "options": [
+      "dipole-dipole bonding",
+      "ionic bonding",
+      "covalent network bonding",
+      "nonpolar covalent bonding",
+      "coordinate covalent bonding",
+      "London dispersion bonding",
+      "van der Waals bonding",
+      "metallic bonding",
+      "hydrogen bonding",
+      "polar covalent bonding"
+    ],
+    "response": "To determine the type of bonding in the unknown substance based on the given properties, let's analyze each characteristic step by step:\n\n1. **High Melting Point**: This suggests that the substance has strong intermolecular or intramolecular forces. Substances with high melting points often have ionic, covalent network, or metallic bonding.\n\n2. **Poor Conductor of Electricity**: This indicates that the substance does not have free-moving charged particles. Ionic compounds conduct electricity when dissolved in water or molten, while covalent compounds generally do not conduct electricity.\n\n3. **Does Not Dissolve in Water**: This suggests that the substance is likely nonpolar or has strong covalent bonds that do not interact well with water.\n\nNow, let's evaluate the types of bonding:\n\n1. **Dipole-Dipole Bonding**: Typically found in polar molecules, which would not explain the poor conductivity and insolubility in water.\n\n2. **Ionic Bonding**: Ionic compounds usually dissolve in water and conduct electricity when dissolved, so this is unlikely.\n\n3. **Covalent Network Bonding**: This type of bonding involves a network of covalent bonds, leading to very high melting points and poor conductivity. It also does not dissolve in water.\n\n4. **Nonpolar Covalent Bonding**: Nonpolar covalent substances can have high melting points, but they typically do not conduct electricity and may or may not dissolve in water depending on their structure.\n\n5. **Coordinate Covalent Bonding**: This is a specific type of covalent bonding and does not directly relate to the properties described.\n\n6. **London Dispersion Bonding**: This is a weak intermolecular force found in nonpolar substances, which usually have lower melting points.\n\n7. **Van der Waals Bonding**: This is a general term for weak intermolecular forces and would not explain the high melting point.\n\n8. **Metallic Bonding**: Metallic substances conduct electricity and usually have a different set of properties.\n\n9. **Hydrogen Bonding**: This is a strong type of dipole-dipole interaction but is not applicable here due to the poor conductivity and solubility.\n\n10. **Polar Covalent Bonding**: Polar covalent substances can dissolve in water and conduct electricity to some extent, which does not fit the description.\n\nBased on the analysis, the most likely type of bonding in the unknown substance is:\n\n**3. Covalent Network Bonding** \n\nThis type of bonding explains the high melting point, poor conductivity, and insolubility in water. Examples include diamond and silicon carbide.",
+    "chosen_option": "3",
+    "is_correct": true
+  },
+  {
+    "question": "Which of the following has an octet of electrons around the central atom?",
+    "options": [
+      "BF3",
+      "BeF2",
+      "PF5",
+      "NH4+",
+      "SF6"
+    ],
+    "response": "To determine which of the given compounds has an octet of electrons around the central atom, we need to analyze each one step by step.\n\n1. **BF3 (Boron Trifluoride)**:\n   - Boron (B) is the central atom.\n   - It has 3 valence electrons and forms 3 bonds with fluorine atoms.\n   - Total electrons around boron: 3 (from bonds) = 6 electrons.\n   - **Conclusion**: Does not have an octet.\n\n2. **BeF2 (Beryllium Difluoride)**:\n   - Beryllium (Be) is the central atom.\n   - It has 2 valence electrons and forms 2 bonds with fluorine atoms.\n   - Total electrons around beryllium: 2 (from bonds) = 4 electrons.\n   - **Conclusion**: Does not have an octet.\n\n3. **PF5 (Phosphorus Pentafluoride)**:\n   - Phosphorus (P) is the central atom.\n   - It has 5 valence electrons and forms 5 bonds with fluorine atoms.\n   - Total electrons around phosphorus: 5 (from bonds) = 10 electrons.\n   - **Conclusion**: Does not have an octet (expanded octet).\n\n4. **NH4+ (Ammonium Ion)**:\n   - Nitrogen (N) is the central atom.\n   - It has 5 valence electrons and forms 4 bonds with hydrogen atoms, plus it has a positive charge (which means it has lost one electron).\n   - Total electrons around nitrogen: 4 (from bonds) + 0 (no lone pairs) = 8 electrons.\n   - **Conclusion**: Has an octet.\n\n5. **SF6 (Sulfur Hexafluoride)**:\n   - Sulfur (S) is the central atom.\n   - It has 6 valence electrons and forms 6 bonds with fluorine atoms.\n   - Total electrons around sulfur: 6 (from bonds) = 12 electrons.\n   - **Conclusion**: Does not have an octet (expanded octet).\n\n### Final Answer:\n**NH4+** is the only compound that has an octet of electrons around the central atom.",
+    "chosen_option": "4",
+    "is_correct": true
+  },
+  {
+    "question": "How many milliliters of 0.250 M KOH does it take to neutralize completely 50.0 mL of 0.150 M H3PO4?",
+    "options": [
+      "75.0 mL",
+      "90.0 mL",
+      "60.0 mL",
+      "120 mL",
+      "30.0 mL",
+      "180 mL",
+      "270 mL",
+      "100 mL",
+      "27 mL",
+      "150 mL"
+    ],
+    "response": "To determine how many milliliters of 0.250 M KOH are needed to completely neutralize 50.0 mL of 0.150 M H₃PO₄, we can follow these steps:\n\n### Step 1: Write the balanced chemical equation\n\nThe neutralization reaction between phosphoric acid (H₃PO₄) and potassium hydroxide (KOH) can be represented as:\n\n\\[\n\\text{H}_3\\text{PO}_4 + 3 \\text{KOH} \\rightarrow \\text{K}_3\\text{PO}_4 + 3 \\text{H}_2\\text{O}\n\\]\n\nThis shows that 1 mole of H₃PO₄ reacts with 3 moles of KOH.\n\n### Step 2: Calculate moles of H₃PO₄\n\nUsing the concentration and volume of H₃PO₄:\n\n\\[\n\\text{Moles of H}_3\\text{PO}_4 = \\text{Concentration} \\times \\text{Volume} = 0.150 \\, \\text{M} \\times 0.0500 \\, \\text{L} = 0.00750 \\, \\text{moles}\n\\]\n\n### Step 3: Calculate moles of KOH needed\n\nFrom the balanced equation, we know that 1 mole of H₃PO₄ requires 3 moles of KOH. Therefore, the moles of KOH needed are:\n\n\\[\n\\text{Moles of KOH} = 3 \\times \\text{Moles of H}_3\\text{PO}_4 = 3 \\times 0.00750 \\, \\text{moles} = 0.0225 \\, \\text{moles}\n\\]\n\n### Step 4: Calculate the volume of KOH solution needed\n\nNow, we can find the volume of 0.250 M KOH required to provide 0.0225 moles:\n\n\\[\n\\text{Volume of KOH} = \\frac{\\text{Moles of KOH}}{\\text{Concentration of KOH}} = \\frac{0.0225 \\, \\text{moles}}{0.250 \\, \\text{M}} = 0.0900 \\, \\text{L}\n\\]\n\n### Step 5: Convert volume to milliliters\n\nConvert liters to milliliters:\n\n\\[\n0.0900 \\, \\text{L} = 90.0 \\, \\text{mL}\n\\]\n\n### Conclusion\n\nThe volume of 0.250 M KOH required to completely neutralize 50.0 mL of 0.150 M H₃PO₄ is **90.0 mL**.\n\nThus, the answer is **2. 90.0 mL**.",
+    "chosen_option": "2",
+    "is_correct": true
+  },
+  {
+    "question": "Consider the Lewis structures for the following molecules: CO2, CO32-, NO2-, and NO3-. Which molecule or molecules exhibit sp2 hybridization around the central atom?",
+    "options": [
+      "NO2- only",
+      "CO2 and CO32-",
+      "CO2 only",
+      "CO2 and NO3-",
+      "NO2- and NO3-",
+      "CO32- and NO3-",
+      "NO3- only",
+      "CO2 and NO2-",
+      "CO32- only",
+      "CO32-, NO2- and NO3-"
+    ],
+    "response": "To determine which molecules exhibit sp² hybridization around the central atom, we need to analyze the Lewis structures of each molecule step by step.\n\n### 1. **CO₂ (Carbon Dioxide)**\n- **Lewis Structure**: O=C=O\n- **Hybridization**: The carbon atom is bonded to two oxygen atoms with double bonds. There are no lone pairs on carbon, and it has a total of 2 regions of electron density (2 double bonds).\n- **Hybridization Type**: sp (not sp²).\n\n### 2. **CO₃²⁻ (Carbonate Ion)**\n- **Lewis Structure**: \n  ```\n      O\n      ||\n  O - C - O\n  ```\n- **Hybridization**: The carbon atom is bonded to three oxygen atoms (one with a double bond and two with single bonds). There are no lone pairs on carbon, and it has a total of 3 regions of electron density.\n- **Hybridization Type**: sp².\n\n### 3. **NO₂⁻ (Nitrite Ion)**\n- **Lewis Structure**: \n  ```\n      O\n      ||\n  N - O\n  ```\n- **Hybridization**: The nitrogen atom is bonded to two oxygen atoms (one with a double bond and one with a single bond). There is one lone pair on nitrogen, giving a total of 3 regions of electron density.\n- **Hybridization Type**: sp².\n\n### 4. **NO₃⁻ (Nitrate Ion)**\n- **Lewis Structure**: \n  ```\n      O\n      ||\n  O - N - O\n  ```\n- **Hybridization**: The nitrogen atom is bonded to three oxygen atoms (one with a double bond and two with single bonds). There are no lone pairs on nitrogen, giving a total of 3 regions of electron density.\n- **Hybridization Type**: sp².\n\n### Summary of Hybridization:\n- **CO₂**: sp\n- **CO₃²⁻**: sp²\n- **NO₂⁻**: sp²\n- **NO₃⁻**: sp²\n\n### Conclusion:\nThe molecules that exhibit sp² hybridization around the central atom are **CO₃²⁻, NO₂⁻, and NO₃⁻**.\n\nThus, the correct answer is:\n**10. CO₃²⁻, NO₂⁻ and NO₃⁻**.",
+    "chosen_option": "10",
+    "is_correct": true
+  },
+  {
+    "question": "Which net ionic equation below represents a possible reaction that takes place when a strip of magnesium metal is oxidized by a solution of chromium (III) nitrate?",
+    "options": [
+      "4Mg(s) + 3Cr(NO3)3(aq) → 4Mg2+(aq) + 3Cr(s) + 3NO3-(aq)",
+      "3Mg(s) + 2Cr(NO3)3(aq) → 3Mg2+(aq) + 2Cr(s) + NO3-(aq)",
+      "2Mg(s) + Cr3+ → 2Mg2+ + Cr(s)",
+      "Mg(s) + 2Cr(NO3)3(aq) → Mg2+(aq) + 2Cr(s) + 2NO3-(aq)",
+      "3Mg(s) + 2Cr3+ → 3Mg2+ + 2Cr(s)",
+      "3Mg(s) + Cr3+ → 3Mg2+ + Cr(NO3)3(aq)",
+      "Mg(s) + Cr(NO3)3(aq) → Mg2+(aq) + Cr(s) + 3NO3-(aq)",
+      "Mg(s) + Cr3+ → Mg2+ + Cr(s)",
+      "2Mg(s) + 2Cr(NO3)3(aq) → 2Mg2+(aq) + 2Cr(s) + 2NO3-(aq)",
+      "Mg(s) + Cr(NO3)3(aq) → Mg2+(aq) + Cr3+(aq) + 3NO3-(aq)"
+    ],
+    "response": "To determine the correct net ionic equation for the reaction between magnesium metal and chromium (III) nitrate, we need to follow these steps:\n\n1. **Identify the Reactants and Products**: \n   - Magnesium (Mg) is a metal that can be oxidized.\n   - Chromium (III) nitrate (Cr(NO₃)₃) contains Cr³⁺ ions, which can be reduced.\n\n2. **Oxidation and Reduction**:\n   - Magnesium (Mg) will lose electrons (oxidation) and form Mg²⁺ ions.\n   - Chromium (Cr³⁺) will gain electrons (reduction) and be reduced to elemental chromium (Cr).\n\n3. **Write the Half-Reactions**:\n   - Oxidation half-reaction: \n     \\[\n     \\text{Mg} \\rightarrow \\text{Mg}^{2+} + 2e^-\n     \\]\n   - Reduction half-reaction:\n     \\[\n     \\text{Cr}^{3+} + 3e^- \\rightarrow \\text{Cr}\n     \\]\n\n4. **Balance the Half-Reactions**:\n   - To balance the electrons, we need to ensure that the number of electrons lost in oxidation equals the number gained in reduction. \n   - The least common multiple of 2 and 3 is 6, so we multiply the oxidation half-reaction by 3 and the reduction half-reaction by 2:\n     - Oxidation: \n       \\[\n       3\\text{Mg} \\rightarrow 3\\text{Mg}^{2+} + 6e^-\n       \\]\n     - Reduction: \n       \\[\n       2\\text{Cr}^{3+} + 6e^- \\rightarrow 2\\text{Cr}\n       \\]\n\n5. **Combine the Half-Reactions**:\n   - Combining these gives:\n     \\[\n     3\\text{Mg} + 2\\text{Cr}^{3+} \\rightarrow 3\\text{Mg}^{2+} + 2\\text{Cr}\n     \\]\n\n6. **Identify the Net Ionic Equation**:\n   - The net ionic equation focuses on the species that undergo a change. The nitrate ions (NO₃⁻) are spectator ions and do not participate in the redox reaction.\n\nFrom the options provided, the correct net ionic equation that represents the reaction is:\n\n**5. \\(3\\text{Mg}(s) + 2\\text{Cr}^{3+} \\rightarrow 3\\text{Mg}^{2+} + 2\\text{Cr}(s)\\)**\n\nThis equation correctly reflects the oxidation of magnesium and the reduction of chromium ions.",
+    "chosen_option": "5",
+    "is_correct": true
+  },
+  {
+    "question": "The simplest alkene has",
+    "options": [
+      "cis-trans isomers",
+      "at least four sigma bonds",
+      "no sigma bonds",
+      "a trigonal planar configuration",
+      "a tetrahedral configuration",
+      "at least three pi bonds",
+      "at least two pi bonds",
+      "aromatic properties",
+      "at least six sigma bonds"
+    ],
+    "response": "To determine the characteristics of the simplest alkene, let's analyze each option step by step:\n\n1. **Cis-trans isomers**: The simplest alkene, ethene (C₂H₄), does not have cis-trans isomers because it has two identical groups (hydrogens) attached to the double bond. Therefore, this statement is **not applicable**.\n\n2. **At least four sigma bonds**: Ethene has four sigma bonds (two C-H and one C=C). This statement is **true**.\n\n3. **No sigma bonds**: This is incorrect. Ethene has sigma bonds.\n\n4. **A trigonal planar configuration**: The carbon atoms in ethene are sp² hybridized, leading to a trigonal planar configuration around each carbon. This statement is **true**.\n\n5. **A tetrahedral configuration**: This is incorrect for ethene, as it has a trigonal planar configuration.\n\n6. **At least three pi bonds**: Ethene has only one pi bond (from the C=C double bond). This statement is **false**.\n\n7. **At least two pi bonds**: Again, ethene has only one pi bond. This statement is **false**.\n\n8. **Aromatic properties**: Ethene is not aromatic. This statement is **false**.\n\n9. **At least six sigma bonds**: Ethene has four sigma bonds, so this statement is **false**.\n\n### Summary:\n- The simplest alkene (ethene) has:\n  - **At least four sigma bonds** (True)\n  - **A trigonal planar configuration** (True)\n\nThus, the correct characteristics of the simplest alkene are options **2** and **4**.",
+    "chosen_option": "2",
+    "is_correct": true
+  },
+  {
+    "question": "Hypochlorous acid is an unstable compound, and one of the decomposition products is chlorine gas, Cl2. The decomposition of the acid lowers its concentration over time. What effect will the decomposition of one-fourth of the acid have on the agreement between the endpoint of the titration and the equivalence point during a titration with standard sodium hydroxide?",
+    "options": [
+      "The endpoint would be before the ideal equivalence point.",
+      "The endpoint would be after the ideal equivalence point.",
+      "The endpoint would be significantly far from the ideal equivalence point.",
+      "It is impossible to determine.",
+      "The endpoint and equivalence point will coincide.",
+      "The endpoint would still remain near the ideal equivalence point.",
+      "The endpoint would be exactly at the ideal equivalence point.",
+      "The titration would become invalid due to the decomposition.",
+      "The decomposition will have no effect on the endpoint.",
+      "The endpoint would be at the midpoint of the titration."
+    ],
+    "response": "To analyze the effect of the decomposition of hypochlorous acid on the titration with standard sodium hydroxide, let's break it down step by step:\n\n1. **Understanding the Reaction**: Hypochlorous acid (HOCl) reacts with sodium hydroxide (NaOH) in a neutralization reaction to form sodium hypochlorite (NaOCl) and water. The equivalence point in this titration occurs when all the HOCl has reacted with NaOH.\n\n2. **Decomposition of Hypochlorous Acid**: If one-fourth of the hypochlorous acid decomposes into chlorine gas (Cl2), the concentration of HOCl available for the titration decreases. This means that there is less acid to react with the sodium hydroxide.\n\n3. **Effect on the Endpoint**: The endpoint of a titration is determined by an indicator that signals when the reaction is complete. If the concentration of HOCl is reduced due to decomposition, the amount of NaOH required to reach the endpoint will also be reduced. \n\n4. **Comparison to the Equivalence Point**: Since the endpoint is determined by the amount of acid that is still present, and if one-fourth has decomposed, the titration will reach the endpoint sooner than it would if all the acid were still present. This means that the endpoint will occur before the ideal equivalence point, where all the original HOCl would have reacted.\n\n5. **Conclusion**: Therefore, the correct answer is:\n   - **1. The endpoint would be before the ideal equivalence point.**\n\nThis is because the decomposition reduces the amount of acid available for reaction, leading to an earlier endpoint in the titration.",
+    "chosen_option": "1",
+    "is_correct": true
+  },
+  {
+    "question": "An ideal solution is a",
+    "options": [
+      "mixture where the solvents cannot be dissolved in any ratio",
+      "mixture that reacts violently when combined",
+      "mixture where the solvents repel each other",
+      "mixture where the potential energy of the mixture is the same as that of the individual solvents",
+      "mixture that changes color when combined",
+      "mixture that decreases the potential energy when combined",
+      "mixture that increases the potential energy when combined",
+      "mixture that is colorless",
+      "mixture that has the same physical properties as the individual solvents"
+    ],
+    "response": "To determine which option describes an ideal solution, let's analyze each statement step by step:\n\n1. **Mixture where the solvents cannot be dissolved in any ratio**: This describes an immiscible mixture, not an ideal solution.\n\n2. **Mixture that reacts violently when combined**: This indicates a chemical reaction, not a physical solution.\n\n3. **Mixture where the solvents repel each other**: This suggests immiscibility, which is not characteristic of an ideal solution.\n\n4. **Mixture where the potential energy of the mixture is the same as that of the individual solvents**: This is not true for an ideal solution, as mixing typically changes potential energy.\n\n5. **Mixture that changes color when combined**: This indicates a chemical change or reaction, not an ideal solution.\n\n6. **Mixture that decreases the potential energy when combined**: This is characteristic of an ideal solution, as mixing often leads to a more stable (lower energy) state.\n\n7. **Mixture that increases the potential energy when combined**: This is not characteristic of an ideal solution.\n\n8. **Mixture that is colorless**: This does not specifically define an ideal solution, as color is not a determining factor.\n\n9. **Mixture that has the same physical properties as the individual solvents**: This is a characteristic of an ideal solution, as the properties of the mixture can resemble those of the pure components.\n\n### Conclusion:\nThe best descriptions of an ideal solution from the options provided are **6** (decreases potential energy when combined) and **9** (has the same physical properties as the individual solvents).",
+    "chosen_option": "6",
+    "is_correct": false
+  },
+  {
+    "question": "Which of the following is incorrectly named?",
+    "options": [
+      "MgO   magnesium oxide",
+      "AgNO3   silver nitrate",
+      "CuCl2   copper(II) chloride",
+      "H2SO4   sulfuric acid",
+      "K2Cr2O7   potassium dichromate",
+      "Na2SO4   sodium sulfate",
+      "Fe(NO3)3   iron(III) nitrate",
+      "CaCl2   calcium chloride",
+      "AlBr3   aluminum tribromide",
+      "Zn(NO3)2   zinc nitrate"
+    ],
+    "response": "Let's analyze each compound step by step to determine if any of them are incorrectly named:\n\n1. **MgO** - magnesium oxide: Correctly named. Magnesium has a +2 charge, and oxygen has a -2 charge, so the name is appropriate.\n\n2. **AgNO3** - silver nitrate: Correctly named. Silver has a +1 charge, and the nitrate ion (NO3) has a -1 charge.\n\n3. **CuCl2** - copper(II) chloride: Correctly named. Copper can have multiple oxidation states, and in this case, it is +2.\n\n4. **H2SO4** - sulfuric acid: Correctly named. This is the correct name for the compound.\n\n5. **K2Cr2O7** - potassium dichromate: Correctly named. The dichromate ion (Cr2O7) has a -2 charge, and there are two potassium ions (+1 each).\n\n6. **Na2SO4** - sodium sulfate: Correctly named. Sodium has a +1 charge, and the sulfate ion (SO4) has a -2 charge.\n\n7. **Fe(NO3)3** - iron(III) nitrate: Correctly named. Iron has a +3 charge in this compound.\n\n8. **CaCl2** - calcium chloride: Correctly named. Calcium has a +2 charge, and chlorine has a -1 charge.\n\n9. **AlBr3** - aluminum tribromide: Correctly named. Aluminum has a +3 charge, and there are three bromide ions (-1 each).\n\n10. **Zn(NO3)2** - zinc nitrate: Correctly named. Zinc typically has a +2 charge, and the nitrate ion has a -1 charge.\n\nAfter reviewing all the names, **all of them are correctly named**. There are no incorrectly named compounds in the list provided.",
+    "chosen_option": "1",
+    "is_correct": false
+  },
+  {
+    "question": "A 50.0 mL sample of 0.0025 M HBr is mixed with 50.0 mL of 0.0023 M KOH. What is the pH of the resulting mixture?",
+    "options": [
+      "6",
+      "7",
+      "3",
+      "1",
+      "4",
+      "11",
+      "2",
+      "12",
+      "5",
+      "9"
+    ],
+    "response": "To find the pH of the resulting mixture when 50.0 mL of 0.0025 M HBr is mixed with 50.0 mL of 0.0023 M KOH, we can follow these steps:\n\n### Step 1: Calculate the moles of HBr and KOH\n\n1. **Moles of HBr:**\n   \\[\n   \\text{Moles of HBr} = \\text{Concentration} \\times \\text{Volume} = 0.0025 \\, \\text{M} \\times 0.0500 \\, \\text{L} = 0.000125 \\, \\text{mol}\n   \\]\n\n2. **Moles of KOH:**\n   \\[\n   \\text{Moles of KOH} = \\text{Concentration} \\times \\text{Volume} = 0.0023 \\, \\text{M} \\times 0.0500 \\, \\text{L} = 0.000115 \\, \\text{mol}\n   \\]\n\n### Step 2: Determine the limiting reactant\n\n- HBr is a strong acid and KOH is a strong base. They will react in a 1:1 ratio:\n  \\[\n  \\text{HBr} + \\text{KOH} \\rightarrow \\text{KBr} + \\text{H}_2\\text{O}\n  \\]\n\n- Since we have:\n  - 0.000125 mol of HBr\n  - 0.000115 mol of KOH\n\nKOH is the limiting reactant.\n\n### Step 3: Calculate the remaining moles after the reaction\n\n- Moles of HBr remaining:\n  \\[\n  \\text{Remaining HBr} = 0.000125 \\, \\text{mol} - 0.000115 \\, \\text{mol} = 0.000010 \\, \\text{mol}\n  \\]\n\n- Moles of KOH remaining:\n  \\[\n  \\text{Remaining KOH} = 0.000115 \\, \\text{mol} - 0.000115 \\, \\text{mol} = 0 \\, \\text{mol}\n  \\]\n\n### Step 4: Calculate the concentration of HBr in the final solution\n\n- Total volume of the mixture:\n  \\[\n  \\text{Total Volume} = 50.0 \\, \\text{mL} + 50.0 \\, \\text{mL} = 100.0 \\, \\text{mL} = 0.100 \\, \\text{L}\n  \\]\n\n- Concentration of remaining HBr:\n  \\[\n  \\text{Concentration of HBr} = \\frac{0.000010 \\, \\text{mol}}{0.100 \\, \\text{L}} = 0.0001 \\, \\text{M}\n  \\]\n\n### Step 5: Calculate the pH of the solution\n\n- Since HBr is a strong acid, the pH can be calculated using:\n  \\[\n  \\text{pH} = -\\log[\\text{H}^+] = -\\log[0.0001] = 4\n  \\]\n\n### Conclusion\n\nThe pH of the resulting mixture is **4**. \n\nThus, the answer is **5**.",
+    "chosen_option": "5",
+    "is_correct": true
+  },
+  {
+    "question": "Helium effuses through a pinhole 5.33 times faster than an unknown gas. That gas is most likely",
+    "options": [
+      "Ne",
+      "CO2",
+      "Ar",
+      "CH4",
+      "O2",
+      "C5H12",
+      "SO2",
+      "N2",
+      "H2O",
+      "C8H18"
+    ],
+    "response": "To determine which gas effuses more slowly than helium, we can use Graham's law of effusion, which states that the rate of effusion of a gas is inversely proportional to the square root of its molar mass. The formula is:\n\n\\[\n\\frac{r_1}{r_2} = \\sqrt{\\frac{M_2}{M_1}}\n\\]\n\nWhere:\n- \\( r_1 \\) and \\( r_2 \\) are the rates of effusion of gas 1 and gas 2, respectively.\n- \\( M_1 \\) and \\( M_2 \\) are the molar masses of gas 1 and gas 2, respectively.\n\nIn this case, helium (He) is gas 1, and the unknown gas is gas 2. Given that helium effuses 5.33 times faster than the unknown gas, we can set up the equation:\n\n\\[\n5.33 = \\sqrt{\\frac{M_{unknown}}{M_{He}}}\n\\]\n\nSquaring both sides gives:\n\n\\[\n(5.33)^2 = \\frac{M_{unknown}}{M_{He}}\n\\]\n\nCalculating \\( (5.33)^2 \\):\n\n\\[\n5.33^2 \\approx 28.41\n\\]\n\nThus, we have:\n\n\\[\nM_{unknown} = 28.41 \\times M_{He}\n\\]\n\nThe molar mass of helium (He) is approximately 4 g/mol. Therefore:\n\n\\[\nM_{unknown} \\approx 28.41 \\times 4 \\approx 113.64 \\text{ g/mol}\n\\]\n\nNow, we can compare this value to the molar masses of the gases listed:\n\n1. **Ne (Neon)**: ~20.18 g/mol\n2. **CO2 (Carbon Dioxide)**: ~44.01 g/mol\n3. **Ar (Argon)**: ~39.95 g/mol\n4. **CH4 (Methane)**: ~16.04 g/mol\n5. **O2 (Oxygen)**: ~32.00 g/mol\n6. **C5H12 (Pentane)**: ~72.15 g/mol\n7. **SO2 (Sulfur Dioxide)**: ~64.07 g/mol\n8. **N2 (Nitrogen)**: ~28.02 g/mol\n9. **H2O (Water)**: ~18.02 g/mol\n10. **C8H18 (Octane)**: ~114.22 g/mol\n\nThe gas with a molar mass closest to 113.64 g/mol is **C8H18 (Octane)**, which has a molar mass of approximately 114.22 g/mol.\n\nThus, the unknown gas is most likely **C8H18 (Octane)**.",
+    "chosen_option": "10",
+    "is_correct": true
+  }
+]
